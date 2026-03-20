@@ -5,6 +5,7 @@ heka22_ecological_economics/
 /.quarto/
 *_files/
 *_cache/
+presentations/*.html
 
 # vscode
 .vscode/*
@@ -19,3 +20,4 @@ heka22_ecological_economics/
 
 # Built Visual Studio Code Extensions
 *.vsix
+**/*.quarto_ipynb

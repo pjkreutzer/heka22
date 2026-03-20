@@ -1,0 +1,14 @@
+---
+title: "Ecological Economics"
+subtitle: "HEKA22 -- VT26, Lund University"
+---
+
+## Course Overview
+
+This is the companion website for HEKA22 Ecological Economics at Lund University, VT26.
+
+## Schedule
+
+| Lecture | Topic | Slides |
+|---------|-------|--------|
+| 1 | Introduction to Ecological Economics | [Slides](../presentations/lecture-1.html) |
