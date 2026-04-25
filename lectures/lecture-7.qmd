@@ -8,4 +8,4 @@ title: "Eco Feminist Economics"
 
 ## Slides
 
-The slides for this lecture are available [here](../presentations/lecture-7.html).
+{{< slides lecture-7 >}}

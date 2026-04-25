@@ -8,4 +8,4 @@ title: "Degrowth"
 
 ## Slides
 
-The slides for this lecture are available [here](../presentations/lecture-8.html).
+{{< slides lecture-8 >}}

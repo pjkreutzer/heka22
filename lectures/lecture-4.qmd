@@ -8,4 +8,4 @@ title: "Raw Materrials and Metabolism"
 
 ## Slides
 
-The slides for this lecture are available [here](../presentations/lecture-4.html).
+{{< slides lecture-4 >}}

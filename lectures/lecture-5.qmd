@@ -11,7 +11,7 @@ Externalities
 
 ## Slides
 
-The slides for this lecture are available [here](../presentations/lecture-5.html).
+{{< slides lecture-5 >}}
 
 
 Show the increase of the financial sector over time vis a vis the productive sector

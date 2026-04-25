@@ -8,4 +8,4 @@ title: "History of Economics and Ecology"
 
 ## Slides
 
-The slides for this lecture are available [here](../presentations/lecture-3.html).
+{{< slides lecture-3 >}}

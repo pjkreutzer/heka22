@@ -8,4 +8,4 @@ title: "Barefoot Economics"
 
 ## Slides
 
-The slides for this lecture are available [here](../presentations/lecture-6.html).
+{{< slides lecture-6 >}}

@@ -20,7 +20,7 @@ social metabolism
 
 ## Slides
 
-The slides for this lecture are available [here](../presentations/lecture-1.html).
+{{< slides lecture-1 >}}
 
 
 ## Notes
