@@ -5,7 +5,7 @@ heka22_ecological_economics/
 /.quarto/
 *_files/
 *_cache/
-presentations/*.html
+slides/*.html
 
 # vscode
 .vscode/*
