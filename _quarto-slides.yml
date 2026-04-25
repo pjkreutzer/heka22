@@ -1,0 +1,9 @@
+project:
+  type: default
+  output-dir: docs
+  render:
+    - "slides/*.qmd"
+
+format:
+  pjk_theme-revealjs:
+    embed-resources: true
