@@ -1,0 +1,34 @@
+---
+title: "Introduction to Ecological Economics"
+---
+
+## Learning Objectives
+
+1. By the end of this lesson, the students will be able to outline ecological economics as a field of research and teaching.
+
+2. Students will be able to describe historical economic growth, its benefits and environmental drawbacks.
+
+3. Students will be able to list course objectives: building vocabulary to interact with economic topics, describing ecological economics as a subfield, applying ecological economics concepts to analyze contemporary issues, evaluating economic proposals to address environmental issues, be able to design alternative approaches to environmental issues on ecological economic grounds.
+
+
+## Key Concepts
+
+social metabolism
+
+“The concept of a social metabolism is used in ecological economics and industrial ecology to capture the need of any human society for materials and energy, in the same way as any biological organism has a metabolism [see Chapter 11]. Order is created on the basis of using low entropy (Georgescu-Roegen, 1971), and the sources upon which humans are most dependent are stocks of concentrated minerals and the solar flow of radiant energy [Chapters 9 and 10]. Traditional societies relied on direct and indirect means of using the latter, with minimal use of the former. Modernity is built upon massive exploitation of the former.”
+
+
+## Slides
+
+The slides for this lecture are available [here](../presentations/lecture-1.html).
+
+
+## Notes
+
+Before embarking on what this course covers, we need to accept the things it cannot cover:
+This course is not a general introduction into economic theory.
+For better and worse, it will not provide you with an (mainstream) economics eduction.
+You will not learn to think like an economist educated at an economics department, nor will you develop a deep understanding of the theories and economics degree would teach you, or be able to apply their tools and methods.
+
+
+Ecological Economics as a transdisciplinary field.

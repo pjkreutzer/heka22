@@ -1,0 +1,45 @@
+---
+title: "Principles of Ecological Economics"
+---
+
+## Learning Objectives
+
+1. 
+2. Students are able to describe mainstream economic concepts (markets, economic growth, IPAT identity), and list their main advantages and shortcomings. 
+3. Students can describe foundational elements of ecological economics (stocks, flows, systems thinking, complexity, embeddedness).
+4. By the end of this lesson, students are able to judge different economic relations to environmental issues regarding their human-nature relation, underlying assumptions, and consequences for ecological sustainability
+
+## Key Concepts
+
+## Slides
+
+The slides for this lecture are available [here](../presentations/lecture-1.html).
+
+
+
+Key chapters:
+
+Chapter 4 common2005EcologicalEconomicsIntroduction
+
+
+<!-- The core idea of ecological economics is that human economic activity is bound by absolute limits. These limits are not entirely fixed, however, since they are co-determined by: (1) (fixed) ‘planetary boundaries’ (Rockström et al. 2009); and (2) (dynamic) social factors, such as values, institutions etc. The economy is viewed as a sub-system embedded in the larger systems of society and the biosphere. The emphasis of the relevance of the laws of thermodynamics to economics is at the core of this view, and is also vital to the historical foundations of ecological economics. This is exemplified by the pioneering book by Nicholas Georgescu-Roegen on The Entropy Law and the Economic Process (1971). Thus, ecological economics, as opposed to neoclassical economics, focuses not only on questions of efficiency and distribution, but it does so against the backdrop of the scale of material throughput (see Terms, analysis, conception of economy). Furthermore, the following issues are emphasized: institutions, power relations, uncertainty and ignorance. In this context, interactions between the economy, society and the environment are analysed, while always keeping in mind the goal of a transition towards sustainability.
+
+While the absolute limits of material throughput is the main idea underlying ecological economics, there are further more or less agreed-upon ‘core beliefs’ (Røpke 2005), upon which different representatives lay different emphasis. These are:
+
+    environmental problems as the critical challenge faced by modern societies;
+    a strong focus on sustainability;
+    pluralism of methods, values etc.;
+    a post-normal understanding of science and transdisciplinarity;
+    a systems perspective, holism;
+    a focus on distributive issues (both intra- and intergenerational); and
+    acknowledgement of the intrinsic value of nature.
+
+2. Terms, analysis, conception of economy
+
+Ecological economics conceives of the economy as an open system embedded in the larger systems of society and the biosphere. Economic activities are constrained by the biosphere’s carrying capacity, i.e. its ability to sustain the material throughput, also called social metabolism, which is the sum of the natural resources used in human production processes and necessary to sustain human activities. Most ecological economists subscribe to the perspective of strong sustainability, i.e. the assumption that natural capital is only very limitedly substitutable by other forms of capital. The unsubstitutable, essential stocks of natural capital are called critical natural capital (CNC). Its existence leads to the contention that there are inherent limits to growth faced by human economies.
+
+It is usually assumed in ecological economics that our knowledge about both the social and natural systems (or, viewed together, social-ecological systems) are inherently limited, so that we face uncertainty or even ignorance about the relevant processes and interactions. This leads to an emphasis on concepts such as resilience (the ability of systems to remain in a given state in the face of disturbances) and the precautionary principle or safe minimum standards (both concepts emphasising the need to minimise the risk of potentially disastrous actions).
+
+Very often, non-human nature is framed as natural capital, a stock from which society derives flows of ecosystem services. However, the instrumental, anthropocentric and essentially reductionist nature of this concept has been much-debated within the ecological economics literature. Ecological economists also emphasise the relevance of cultural ecosystem services, such as aesthetics, recreation and similar ‘non-material’ uses of ecosystems; these are often under-represented by other economic perspectives (Chan et al. 2012).
+
+The analytical approach of ecological economics is holistic and pluralist. First, it adopts a systems perspective, looking at ecological and economic processes from the perspective of systems, and less from the perspective of individuals. These systems are both natural ecosystems and society and its institutions. Second, it embraces pluralism of methods, approaches and values, though the extent of admissible or sensible pluralism is debated (see below). With regard to values, incommensurability (that the relevant values cannot be reduced to a common measure) is a much-debated challenge, the main questions of which are how widespread incommensurability is and how to deal with it. -->

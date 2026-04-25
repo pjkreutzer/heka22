@@ -1,0 +1,11 @@
+---
+title: "Raw Materrials and Metabolism"
+---
+
+## Learning Objectives
+
+## Key Concepts
+
+## Slides
+
+The slides for this lecture are available [here](../presentations/lecture-4.html).
