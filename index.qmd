@@ -16,15 +16,15 @@ This is the companion website for HEKA22 Ecological Economics at Lund University
 
 | Lecture | Topic | Slides | 
 |---------:|:------------|--------|
-| 1 | Introduction to Ecological Economics | [Slides](../presentations/lecture-1.html) |
-|2| Principles of Ecological Economics|[Slides](../presentations/lecture-2.html)|
-|3| History of Economics and Ecology|[Slides](../presentations/lecture-3.html)|
-|4| Raw Materrials and Metabolism|[Slides](../presentations/lecture-4.html)|
+| 1 | Introduction to Ecological Economics | [Slides](slides/lecture-1.html) |
+|2| Principles of Ecological Economics|[Slides](slides/lecture-2.html)|
+|3| History of Economics and Ecology|[Slides](slides/lecture-3.html)|
+|4| Raw Materrials and Metabolism|[Slides](slides/lecture-4.html)|
 ||Redovisning grupparbete||
-|5| Doughnut Economics|[Slides](../presentations/lecture-5.html)|
-|6| Barefoot Economics|[Slides](../presentations/lecture-6.html)|
-|7| Eco Feminist Economics|[Slides](../presentations/lecture-7.html)|
-|8| Degrowth|[Slides](../presentations/lecture-8.html)|
+|5| Doughnut Economics|[Slides](slides/lecture-5.html)|
+|6| Barefoot Economics|[Slides](slides/lecture-6.html)|
+|7| Eco Feminist Economics|[Slides](slides/lecture-7.html)|
+|8| Degrowth|[Slides](slides/lecture-8.html)|
 || Seminar: Peer Feedback||
 
 ### Assignments
