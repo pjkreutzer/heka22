@@ -3,10 +3,6 @@ title: Introduction to Ecological Economics
 subtitle: HEKA22
 author: Jonas Kreutzer
 date: 2026-04-29
-format:
-    pjk_theme-revealjs:
-        embed-resources: true
-
 ---
 
 # Who Am I?
