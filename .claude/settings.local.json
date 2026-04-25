@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git rm:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(grep -E \"\\\\.\\(yml|yaml|qmd|md\\)$\")",
+      "Bash(cat /Users/research/teaching/eose10/presentations/*.qmd)",
+      "Bash(quarto:*)"
+    ]
+  }
+}
