@@ -3,6 +3,8 @@ heka22_ecological_economics/
 
 # Quarto
 /.quarto/
+/_site/
+/docs/
 *_files/
 *_cache/
 slides/*.html
