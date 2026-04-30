@@ -21,6 +21,10 @@ This is the companion website for HEKA22 Ecological Economics at Lund University
 |2| Principles of Ecological Economics||
 |3| History of Economics and Ecology||
 |4| [Raw Materials and Metabolism](lectures/lecture-4.html)|Peer Teaching|
+|5| Doughnut Economics|Guest Lecture|
+|6| Plural Perspectives: Eco-Feminist Economics||
+|7| Degrowth||
+|8| Your Choice ||
 || Seminar: Peer Feedback||
 
 ### Assignments
