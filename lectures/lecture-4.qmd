@@ -1,11 +1,38 @@
 ---
-title: "Raw Materrials and Metabolism"
+title: "Raw Materials and Metabolism"
 ---
 
 ## Learning Objectives
 
-## Key Concepts
+1. Describe the material throughput of modern economies, including the distinction between domestic extraction and material footprint, and identify which world regions are net importers versus net exporters of embodied materials.
 
-## Slides
+2. Analyze asymmetries in raw material consumption across countries and explain the mechanisms---historical, economic, and biophysical---that produce and sustain them.
 
-{{< slides lecture-4 >}}
+3. Evaluate proposed strategies for reducing material throughput (decoupling, degrowth, circular economy) against empirical evidence on their feasibility.
+
+## Peer Teaching
+
+Today's lecture is given by the students. This is to practice:
+
+- Reading with a purpose (extracting, transforming, and using information for communicative ends).
+- Retelling, informing, communicating (planning and delivering a lecture that presents the main arguments, points, and knowledge in a structured and clear way).
+- Collaboration.
+- Speaking in front of a group of peers.
+
+Each person reads all assigned articles. Each group reads its assigned article especially carefully and jointly plans, structures, and delivers a lecture for the rest of the student group. The group also formulates a discussion question and submits it to me before the lecture. 
+
+At the peer-teaching lecture, you have 18 minutes at your disposal (including starting up any slides, writing on the board, or other preparations needed).
+
+Tips and advice:
+
+- Get started early.
+- Feel free to read supporting literature, for example, cited sources, text books on the topic, wikipedia pages.
+- Google expressions and theories so you understand them.
+- If the group work falls apart for one reason or another, let me know early!
+
+| Group | Reading |
+|-------|---------|
+| Group 1 | @wiedmann2015MaterialFootprintNations |
+| Group 2 | @haberl2020SystematicReviewEvidence |
+| Group 3 | @hornborg2006FootprintsCottonFields |
+| Group 4 | @oneill2018GoodLifeAll |

@@ -2,10 +2,22 @@
 title: "History of Economics and Ecology"
 ---
 
+## Readings {.unnumbered}
+
+### Mandatory {.unnumbered}
+
+- Chapter 2 in @costanza2015IntroductionEcologicalEconomics
+
+### Recommended {.unnumbered}
+
+- Chapter 5 in @raworth2018DoughnutEconomicsSeven
+
+
+<!-- 
 ## Learning Objectives
 
 ## Key Concepts
 
 ## Slides
 
-{{< slides lecture-3 >}}
+{{< slides lecture-3 >}} -->

@@ -10,7 +10,18 @@ title: "Introduction to Ecological Economics"
 
 3. Students will be able to list course objectives: building vocabulary to interact with economic topics, describing ecological economics as a subfield, applying ecological economics concepts to analyze contemporary issues, evaluating economic proposals to address environmental issues, be able to design alternative approaches to environmental issues on ecological economic grounds.
 
+## Readings {.unnumbered}
 
+### Mandatory {.unnumbered}
+
+- Chapter 1 in @spash2018RoutledgeHandbookEcological
+
+### Recommended {.unnumbered}
+
+- @vandenbergh2001EcologicalEconomicsThemes
+- Who wants to be an economist? in @raworth2018DoughnutEconomicsSeven
+
+<!-- 
 ## Key Concepts
 
 social metabolism
@@ -31,4 +42,4 @@ For better and worse, it will not provide you with an (mainstream) economics edu
 You will not learn to think like an economist educated at an economics department, nor will you develop a deep understanding of the theories and economics degree would teach you, or be able to apply their tools and methods.
 
 
-Ecological Economics as a transdisciplinary field.
+Ecological Economics as a transdisciplinary field. -->

@@ -6,6 +6,8 @@ heka22_ecological_economics/
 *_files/
 *_cache/
 slides/*.html
+lectures/*.html
+readme.html
 
 # vscode
 .vscode/*

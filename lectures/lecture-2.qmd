@@ -2,9 +2,20 @@
 title: "Principles of Ecological Economics"
 ---
 
+## Readings {.unnumbered}
+
+### Mandatory {.unnumbered}
+
+- Chapter 3 in @costanza2015IntroductionEcologicalEconomics
+
+### Recommended {.unnumbered}
+
+- Chapters 3 and 4 in @raworth2018DoughnutEconomicsSeven
+
+<!-- 
 ## Learning Objectives
 
-1. 
+   
 2. Students are able to describe mainstream economic concepts (markets, economic growth, IPAT identity), and list their main advantages and shortcomings. 
 3. Students can describe foundational elements of ecological economics (stocks, flows, systems thinking, complexity, embeddedness).
 4. By the end of this lesson, students are able to judge different economic relations to environmental issues regarding their human-nature relation, underlying assumptions, and consequences for ecological sustainability
@@ -14,7 +25,6 @@ title: "Principles of Ecological Economics"
 ## Slides
 
 {{< slides lecture-2 >}}
-
 
 
 Key chapters:
@@ -42,4 +52,4 @@ It is usually assumed in ecological economics that our knowledge about both the 
 
 Very often, non-human nature is framed as natural capital, a stock from which society derives flows of ecosystem services. However, the instrumental, anthropocentric and essentially reductionist nature of this concept has been much-debated within the ecological economics literature. Ecological economists also emphasise the relevance of cultural ecosystem services, such as aesthetics, recreation and similar ‘non-material’ uses of ecosystems; these are often under-represented by other economic perspectives (Chan et al. 2012).
 
-The analytical approach of ecological economics is holistic and pluralist. First, it adopts a systems perspective, looking at ecological and economic processes from the perspective of systems, and less from the perspective of individuals. These systems are both natural ecosystems and society and its institutions. Second, it embraces pluralism of methods, approaches and values, though the extent of admissible or sensible pluralism is debated (see below). With regard to values, incommensurability (that the relevant values cannot be reduced to a common measure) is a much-debated challenge, the main questions of which are how widespread incommensurability is and how to deal with it. -->
+The analytical approach of ecological economics is holistic and pluralist. First, it adopts a systems perspective, looking at ecological and economic processes from the perspective of systems, and less from the perspective of individuals. These systems are both natural ecosystems and society and its institutions. Second, it embraces pluralism of methods, approaches and values, though the extent of admissible or sensible pluralism is debated (see below). With regard to values, incommensurability (that the relevant values cannot be reduced to a common measure) is a much-debated challenge, the main questions of which are how widespread incommensurability is and how to deal with it. --> 

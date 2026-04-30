@@ -7,13 +7,13 @@ date: 2026-04-29
 
 # Who Am I?
 
-:::{fragment}
+:::{.fragment}
 The best way to reach me: `philipp_jonas.kreutzer@ekh.lu.se`
 :::
 
 # Who are you?
 
-:::{notes}
+:::{.fragement}
 - I understand ecology.
 - I like ecology.
 - I trust ecology.
@@ -25,18 +25,236 @@ The best way to reach me: `philipp_jonas.kreutzer@ekh.lu.se`
 
 # What to expect of this course {.inverted}
 
+
 ## 
 
 ![](../assets/the_economy_stupid.png)
 
-:::{notes}
+
+:::{.notes}
 open question what is the economy to you?
+
+oikos---household
+root of both ecology and economy
+
+:::
+
+## Ecological Economics studies the *interaction* of these two systems
+
+##
+
+![Historical Average Heights of Men [copied from @clark2010FarewellAlmsBrief]](../assets/historical_heights.png){#fig-historical-heights}
+
+##
+
+![The "Great Acceleration" of Earth system and socio-economic trends [copied from @steffen2018TrajectoriesEarthSystem]](../assets/great_acceleration.png){#fig-great-acceleration}
+
+##
+
+![National Human Development Index and Ecological Footprint trajectories, 1980–2007 [copied from @steffen2011AnthropoceneGlobalChange, based on data from @lo2025ecologicalfootprint]](../assets/hdi_footprint.png){#fig-hdi-footprint}
+
+
+:::{.notes}
+The Ecological Footprint measures the amount of biologically productive land and sea area an individual, a region, all of humanity, or a human activity that compete for biologically productive space. This includes producing renewable resources, accommodating urban infrastructure and roads, and breaking down or absorbing waste products, particularly carbon dioxide emissions from fossil fuel. The Footprint then can be compared to how much land and sea area is available.
 :::
 
 
-oikos---house
-root of both ecology and economy
+## Learning Objectives
 
-image of embeddedness
-pillars
+Demonstrate the ability to independently apply anthropological, historical, sociological, and [economic perspectives]{.text-royal-blue-400} to environmental issues,
 
+
+::: {.fragment .semi-fade-out}
+- demonstrate the ability to convey in-depth knowledge of human ecology in both spoken and written communication,
+:::
+
+::: {.fragment .semi-fade-out}
+- demonstrate the ability to conduct subject-related information searches, evaluate information, and master reference management.
+:::
+
+::: {.fragment}
+- demonstrate the ability to engage in informed discussion of the relationship between environmental problems and economic growth,
+:::
+
+
+## Course Schedule {.smaller}
+
+```{=html}
+<style>
+.schedule-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+  font-size: 0.65rem;
+  width: 100%;
+}
+.schedule-section {
+  grid-column: 1 / -1;
+  font-weight: 600;
+  font-size: 0.8rem;
+  padding: 0.3rem 0.6rem;
+  margin-top: 0.4rem;
+  border-radius: 0.3rem;
+  color: white;
+}
+.section-foundations { background-color: hsl(231, 65%, 48%); }
+.section-current { background-color: hsl(223, 78%, 60%); }
+.section-exam { background-color: hsl(230, 55%, 33%); }
+.schedule-box {
+  background-color: hsl(221, 78%, 93%);
+  border-radius: 0.3rem;
+  padding: 0.4rem 0.5rem;
+  border-left: 4px solid hsl(219, 80%, 68%);
+  line-height: 1.3;
+}
+.schedule-box .lecture-num {
+  font-weight: 700;
+  color: hsl(232, 50%, 21%);
+  font-size: 0.75rem;
+}
+.schedule-box .lecture-date {
+  color: hsl(210, 7%, 56%);
+  font-size: 0.55rem;
+}
+.schedule-box .lecture-note {
+  color: hsl(227, 71%, 55%);
+  font-style: italic;
+  font-size: 0.55rem;
+}
+</style>
+
+<div class="schedule-grid">
+
+<div class="schedule-section" style="background-color: hsl(210, 9%, 31%);">Introduction</div>
+
+<div class="schedule-box">
+  <div class="lecture-date">Wed 29 Apr</div>
+  <div class="lecture-num">Course Introduction</div>
+</div>
+<div></div><div></div><div></div>
+
+<div class="schedule-section section-foundations">Foundations</div>
+
+<div class="schedule-box">
+  <div class="lecture-date">Wed 6 May &middot; AM</div>
+  <div class="lecture-num">1 &middot; Introduction to Ecological Economics</div>
+</div>
+<div class="schedule-box">
+  <div class="lecture-date">Wed 6 May &middot; PM</div>
+  <div class="lecture-num">2 &middot; Principles of Ecological Economics</div>
+  <div class="lecture-note">Exact time TBD</div>
+</div>
+<div class="schedule-box">
+  <div class="lecture-date">Fri 8 May</div>
+  <div class="lecture-num">3 &middot; History of Economics and Ecology</div>
+</div>
+<div class="schedule-box">
+  <div class="lecture-date">Mon 11 May</div>
+  <div class="lecture-num">4 &middot; Raw Materials and Metabolism</div>
+  <div class="lecture-note">Peer Teaching</div>
+</div>
+
+<div class="schedule-section section-current">Current Topics</div>
+
+<div class="schedule-box">
+  <div class="lecture-date">Wed 13 May</div>
+  <div class="lecture-num">5 &middot; Doughnut Economics</div>
+  <div class="lecture-note">Guest Lecture</div>
+</div>
+<div class="schedule-box">
+  <div class="lecture-date">Tue 19 May</div>
+  <div class="lecture-num">6 &middot; Plural Perspectives: Eco-Feminist Economics</div>
+</div>
+<div class="schedule-box">
+  <div class="lecture-date">Thu 21 May</div>
+  <div class="lecture-num">7 &middot; Degrowth</div>
+</div>
+<div class="schedule-box">
+  <div class="lecture-date">Tue 26 May</div>
+  <div class="lecture-num">8 &middot; Your Choice</div>
+</div>
+
+<div class="schedule-section section-exam">Exam Prep</div>
+
+<div class="schedule-box">
+  <div class="lecture-date">Thu 28 May</div>
+  <div class="lecture-num">Seminar &middot; Peer Feedback</div>
+</div>
+
+</div>
+```
+
+## Examination
+
+```{=html}
+<style>
+.exam-chart {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+  width: 100%;
+}
+.exam-option {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.exam-option h3 {
+  font-size: 1.1rem;
+  color: hsl(232, 50%, 21%);
+  min-width: 120px;
+  text-align: right;
+  margin: 0;
+}
+.exam-bar {
+  flex: 1;
+  display: flex;
+  height: 80px;
+  border-radius: 0.3rem;
+  overflow: hidden;
+}
+.exam-segment {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: white;
+  line-height: 1.2;
+  padding: 0.3rem;
+}
+.seg-peer { background-color: hsl(219, 80%, 68%); }
+.seg-final { background-color: hsl(231, 65%, 48%); }
+.seg-mc { background-color: hsl(152, 37%, 46%); }
+.seg-home { background-color: hsl(230, 55%, 33%); }
+</style>
+
+<div class="exam-chart">
+  <div class="exam-option">
+    <h3>Option A</h3>
+    <div class="exam-bar">
+      <div class="exam-segment seg-final" style="flex: 100;">Final Exam<br>100%</div>
+    </div>
+  </div>
+  <div class="exam-option">
+    <h3>Option B</h3>
+    <div class="exam-bar">
+      <div class="exam-segment seg-mc" style="flex: 20;">Multiple Choice Quiz<br>20%</div>
+      <div class="exam-segment seg-home" style="flex: 80;">Final Exam<br>80%</div>
+    </div>
+  </div>
+</div>
+```
+
+## Final Exam: 3000--4000 Word Essay on **One** Question
+
+1.  Formulate a question you found difficult to answer previously, but now have the tools to reason around. Tie your answer to theory, practice, and concrete examples.
+2.  Choose one economic school of thought to answer the following. Based on the course's material and discussions, argue how your everyday behavior can contribute to "a safe and just place for all within planetary boundaries". How can microeconomics and micropolitics influence larger systems? Use theory, praxis and examples to deepen your analysis.
+3. Karl Polanyi's work shows how tightly the economy, culture and society are intertwined. How have your own social and cultural background and experience formed your view on the economy? Point thoroughly to theories from the course to support your reflection.
+4. During the course you encountered concepts (for example, "green growth", "Doughnut economics", "Degrowth") that propose different ways for the economy to respond to environmental issues. Chose one of these frames, explain its position and then criticize another frame from it.
+5. Propose your own question to me, if it fits the frame of the course and the learning objectives, you may write about something you are passionate about.
+
+
+## References
