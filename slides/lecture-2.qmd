@@ -2,7 +2,7 @@
 title: Principles of Ecological Economics
 subtitle: HEKA22
 author: Jonas Kreutzer
-date: 2025-05-07
+date: last-modified
 ---
 
 # Learning Objectives
@@ -11,9 +11,9 @@ date: 2025-05-07
 
 ## By the end of today's lecture you should:
 
-1. Be able to outline ecological economics as a field of teaching and research
-2. Be able to list different economic fields and analyze the extent to which they represent mainstream thoughts
-3. Be able to evaluate different streams within ecological economics regarding their relation to mainstream economics
+1. Be able to describe how ecological economics relates economic, ecological, and social systems
+2. Be able to list ways in which ecological economics challenges mainstream economic thinking
+3. Be able to criticize mainstream approaches to value nature from the perspective of strong sustainability
 
 :::
 
@@ -25,25 +25,20 @@ date: 2025-05-07
 Draw different images of economy, society, and ecology.
 :::
 
-## Full-World Economics
 
-:::{.notes}
-draw image of full world and exchange with universe
+## Empty World
 
-![Full World Model](../assets/economy-in-environment.png){width=50%}
-:::
+![Stylistic Image of Empty World Economics copied from @costanza2015IntroductionEcologicalEconomics [p.159]](../assets/empty-world.png){#fig-empty-world}
 
-***
-
-### How many economists think about provisioning: Cobb-Douglas Production Function
+## How many economists think about provisioning: Cobb-Douglas Production Function
 
 A combination of three "production factors"
 
-$$\color{purple}{Y} = \color{red}{A} \cdot \color{blue}{K}^{\color{blue}{\alpha}} \cdot \color{teal}{L}^{\color{teal}{1-\alpha}}$$
+$${\color{#2b3a67}{Y}} = {\color{#e53e3e}{A}} \cdot {\color{#3b6de0}{K}}^{{\color{#3b6de0}{\alpha}}} \cdot {\color{#519872}{L}}^{{\color{#519872}{1-\alpha}}}$$
 
 With:
 
-$$\color{red}{A} = \text{Productivity}, \quad \color{blue}{K} = \text{capital}, \quad \color{teal}{L} = \text{labor}, \quad \color{blue}{\alpha} + \color{teal}{(1-\alpha)} = 1$$
+$${\color{#e53e3e}{A}} = \text{Productivity}, \quad {\color{#3b6de0}{K}} = \text{capital}, \quad {\color{#519872}{L}} = \text{labor}, \quad {\color{#3b6de0}{\alpha}} + {\color{#519872}{(1-\alpha)}} = 1$$
 
 
 ## Building some intuition for the Cobb-Douglas production function
@@ -51,31 +46,31 @@ $$\color{red}{A} = \text{Productivity}, \quad \color{blue}{K} = \text{capital}, 
 ```{=html}
 <div id="cd-widget" style="font-family: system-ui; max-width: 640px; margin: 0 auto; padding: 1em 1.5em; background: #f7f7f7; border-radius: 10px;">
   <div style="font-size: 1.8em; text-align: center; margin-bottom: 0.6em;">
-    <span style="color:purple;">Y</span> =
-    <span style="color:red;">A</span> ·
-    <span style="color:blue;">K</span><sup style="color:blue;">α</sup> ·
-    <span style="color:teal;">L</span><sup style="color:teal;">1−α</sup>
+    <span style="color:#2b3a67;">Y</span> =
+    <span style="color:#e53e3e;">A</span> ·
+    <span style="color:#3b6de0;">K</span><sup style="color:#3b6de0;">α</sup> ·
+    <span style="color:#519872;">L</span><sup style="color:#519872;">1−α</sup>
   </div>
   <div style="display: grid; grid-template-columns: 2em 1fr 3.5em; gap: 0.4em 1em; align-items: center; font-size: 0.9em;">
-    <label style="color:blue;">K</label>
+    <label style="color:#3b6de0;">K</label>
     <input type="range" min="0" max="100" value="50" id="cd-k">
-    <span id="cd-k-val" style="color:blue; font-variant-numeric: tabular-nums;">50</span>
+    <span id="cd-k-val" style="color:#3b6de0; font-variant-numeric: tabular-nums;">50</span>
 
-    <label style="color:teal;">L</label>
+    <label style="color:#519872;">L</label>
     <input type="range" min="0" max="100" value="50" id="cd-l">
-    <span id="cd-l-val" style="color:teal; font-variant-numeric: tabular-nums;">50</span>
+    <span id="cd-l-val" style="color:#519872; font-variant-numeric: tabular-nums;">50</span>
 
     <label>α</label>
     <input type="range" min="0.05" max="0.95" step="0.05" value="0.3" id="cd-alpha">
     <span id="cd-alpha-val" style="font-variant-numeric: tabular-nums;">0.30</span>
 
-    <label style="color:red;">A</label>
+    <label style="color:#e53e3e;">A</label>
     <input type="range" min="0.5" max="3" step="0.1" value="1" id="cd-a">
-    <span id="cd-a-val" style="color:red; font-variant-numeric: tabular-nums;">1.0</span>
+    <span id="cd-a-val" style="color:#e53e3e; font-variant-numeric: tabular-nums;">1.0</span>
   </div>
   <div style="text-align: center; font-size: 1.8em; margin-top: 0.7em;">
-    <span style="color:purple;">Y</span> =
-    <span id="cd-y" style="color:purple; font-weight: bold; font-variant-numeric: tabular-nums;">50.00</span>
+    <span style="color:#2b3a67;">Y</span> =
+    <span id="cd-y" style="color:#2b3a67; font-weight: bold; font-variant-numeric: tabular-nums;">50.00</span>
   </div>
 </div>
 
@@ -99,7 +94,20 @@ $$\color{red}{A} = \text{Productivity}, \quad \color{blue}{K} = \text{capital}, 
 </script>
 ```
 
+## Full-World Economics
+
+:::{.notes}
+draw image of full world and exchange with universe
+
+![Full World Model](../assets/economy-in-environment.png){width=50%}
+:::
+
+
 ## Criticism from @georgescu-roegen1975EnergyEconomicMyths
+
+:::{.notes}
+funds (capital, labor, land) are what we use to transform the flows (matter, energy) passing through. The funds themselves don't disappear in the act of production. The flows do.
+:::
 
 ## Strong versus Weak Sustainability
 
@@ -111,22 +119,15 @@ Can you find examples where natural capital can be substituted by other forms of
 Can you find examples where it cannot?
 :::
 
+*** 
+### Ecosystem services revisited
 
-# Appendix {.inverted}
-
-## Types of goods 
-
-:::{.notes}
-![](../assets/good-types.jpg)
-:::
-
-## Ecosystem Services 
 
 ::: {.columns}
 
 ::: {.column}
 
-![Types of Ecosystem Services By Snoopdeeboop - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=148837942](../assets/ecosystem-services-types.png){#fig-eco-service-types}
+![Types of Ecosystem Services By Snoopdeeboop CC0, `https://commons.wikimedia.org/w/index.php?curid=148837942`](../assets/ecosystem-services-types.png){#fig-eco-service-types}
 
 :::
 
@@ -138,4 +139,35 @@ Can you find examples where it cannot?
 :::
 
 :::
+
+
+## Scale, distribution, and allocation
+
+:::{.notes}
+Image of a ship:
+
+allocation is how we arrange containers
+distribution is how we decide whose containers
+scale is how we decide how many containers are possible
+
+:::
+
+## Seven ways to think like an Ecological Economist
+
+![Kate @raworth2018DoughnutEconomicsSeven's Seven Ways to Think Like an Economist for the 21st Century](../assets/seven-ways.jpeg){#fig-seven-ways}
+
+
+# Checking-in on Learning Objectives
+
+::: {.callout-tip}
+
+## By the end of today's lecture you should:
+
+1. Be able to describe how ecological economics relates economic, ecological, and social systems
+2. Be able to list ways in which ecological economics challenges mainstream economic thinking
+3. Be able to criticize mainstream approaches to value nature from the perspective of strong sustainability
+
+:::
+
+# References
 

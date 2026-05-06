@@ -1,5 +1,9 @@
 project:
   type: book
+  render:
+    - "*.qmd"
+    - "lectures/*.qmd"
+    - "!slides/"
 
 book:
   title: "Ecological Economics"
@@ -20,3 +24,4 @@ book:
 format:
   pjk_theme-html:
     toc: true
+    number-sections: true

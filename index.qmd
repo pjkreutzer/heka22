@@ -1,41 +1,56 @@
 ---
-title: "Ecological Economics"
 subtitle: "HEKA22---VT26, Lund University"
-numbered: false
 ---
 
-## Course Overview 
+# Ecological Economics {.unnumbered}
+
+## Course Overview
 
 This is the companion website for HEKA22 Ecological Economics at Lund University, VT26.
 
 ### Learning Objectives
 
 
+::: {.callout-tip}
+
+## By the end of this course you should:
+
+Demonstrate the ability to independently apply anthropological, historical, sociological, and [economic perspectives]{.text-royal-blue-400} to environmental issues,
+
+- demonstrate the ability to convey in-depth knowledge of human ecology in both spoken and written communication,
+
+- demonstrate the ability to conduct subject-related information searches, evaluate information, and master reference management.
+
+- demonstrate the ability to engage in informed discussion of the relationship between environmental problems and economic growth,
+
+:::
 
 ### Schedule
 
-| Lecture | Topic | Slides |
-|---------:|:------------|--------|
-|| Course Introduction | [Slides](slides/introduction.html) |
-| 1 | Introduction to Ecological Economics | |
-|2| Principles of Ecological Economics||
-|3| History of Economics and Ecology||
-|4| [Raw Materials and Metabolism](lectures/lecture-4.html)|Peer Teaching|
-|5| Doughnut Economics|Guest Lecture|
-|6| Plural Perspectives: Eco-Feminist Economics||
-|7| Degrowth||
-|8| Your Choice ||
-|| Seminar: Peer Feedback||
+| Date | Lecture | Topic | Slides |
+|:-----|-------:|:------------|--------|
+| Wed 29 Apr || Course Introduction | [Slides](#slides) |
+| Wed 6 May (AM) | 1 | [Introduction to Ecological Economics](lectures/lecture-1.html) | [Slides](lectures/lecture-1.html#slides) |
+| Wed 6 May (PM) | 2 | [Principles of Ecological Economics](lectures/lecture-2.html) | [Slides](lectures/lecture-2.html#slides) |
+| Fri 8 May | 3 | [History of Economics and Ecology](lectures/lecture-3.html) ||
+| Mon 11 May | 4 | [Raw Materials and Metabolism](lectures/lecture-4.html) | Peer Teaching |
+| Wed 13 May | 5 | Doughnut Economics | Guest Lecture |
+| Tue 19 May | 6 | Plural Perspectives: Eco-Feminist Economics ||
+| Thu 21 May | 7 | Degrowth ||
+| Tue 26 May | 8 | Your Choice ||
+| Thu 28 May || Seminar: Peer Feedback ||
 
 ### Assignments
 
 The final assignment for this course is an essay answering **one** of these questions:
-1.  Formulate a question you found difficult to answer previously, but now have the tools to reason around. Tie your answer to theory, practice, and concrete examples.
-2.  Choose one economic school of thought to answer the following. Based on the course's material and discussions, argue how your everyday behavior can contribute to "a safe and just place for all within planetary boundaries". How can microeconomics and micropolitics influence larger systems? Use theory, praxis and examples to deepen your analysis.
+
+1. Formulate a question you found difficult to answer previously, but now have the tools to reason around. Tie your answer to theory, practice, and concrete examples.
+2. Choose one economic school of thought to answer the following. Based on the course's material and discussions, argue how your everyday behavior can contribute to "a safe and just place for all within planetary boundaries". How can microeconomics and micropolitics influence larger systems? Use theory, praxis and examples to deepen your analysis.
 3. Karl Polanyi's work shows how tightly the economy, culture and society are intertwined. How have your own social and cultural background and experience formed your view on the economy? Point thoroughly to theories from the course to support your reflection.
 4. During the course you encountered concepts (for example, "green growth", "Doughnut economics", "Degrowth") that propose different ways for the economy to respond to environmental issues. Chose one of these frames, explain its position and then criticize another frame from it.
 5. Propose your own question to me, if it fits the frame of the course and the learning objectives, you may write about something you are passionate about.
-   
+
+
 **Instructions**: Write a 3000--4000 word essay with a clear structure, consisting of an introduction, a main body with well-developed paragraphs, and a conclusion.
 Cite correctly, following the department's citation style. The library offers substantial support (use them!).
 Your arguments need to be coupled to the lectures, seminars, and assigned readings for this course.
@@ -80,4 +95,8 @@ But your learning success will depend on the same factors as with all other lear
 3. Actively integrate new knowledge with what you already know. Test yourself to identify gaps in your knowledge. Try to fill them. Then test yourself again.
 
 The central element in all of this is *using your brain actively* not just passively consuming information.
+
+## Slides
+
+{{< slides introduction >}}
 

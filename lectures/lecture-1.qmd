@@ -4,12 +4,15 @@ title: "Introduction to Ecological Economics"
 
 ## Learning Objectives
 
+::: {.callout-tip}
 
-1. Be able to outline ecological economics as a field of teaching and research.
+## By the end of today's lecture you should:
 
-2. Be able to list different economic fields and analyze the extent to which they represent mainstream thoughts.
+1. Be able to outline ecological economics as a field of teaching and research
+2. Be able to list different economic fields and analyze the extent to which they represent mainstream thoughts
+3. Be able to evaluate different streams within ecological economics regarding their relation to mainstream economics
 
-3. Be able to evaluate different streams within ecological economics regarding their relation to mainstream economics.
+:::
 
 ## Readings {.unnumbered}
 
@@ -69,35 +72,12 @@ Is Ecological Economics a real alternative to mainstream economics, or has it be
 There are three broadly recognized streams within ecological economics that differ in the extent to which they engage with, draw on, and sympathize with mainstream economics.
 
 To understand the different streams within ecological economics, we will use a puzzle created by [Dallaire-Fortier, Dwarkasing, and Plomteux (no date)](https://sites.google.com/view/claradallaire-fortier/teaching/teaching-heterodox-economics-magazine?authuser=0).
+You can find all materials and the "solution" to the puzzle in the materials at the linked website.
 
-<!-- 
-### Scientific paradigms
- -->
-
-## Slides
-
-{{< slides lecture-1 >}}
-
-
-<!-- 
-## Key Concepts
-
-social metabolism
-
-“The concept of a social metabolism is used in ecological economics and industrial ecology to capture the need of any human society for materials and energy, in the same way as any biological organism has a metabolism [see Chapter 11]. Order is created on the basis of using low entropy (Georgescu-Roegen, 1971), and the sources upon which humans are most dependent are stocks of concentrated minerals and the solar flow of radiant energy [Chapters 9 and 10]. Traditional societies relied on direct and indirect means of using the latter, with minimal use of the former. Modernity is built upon massive exploitation of the former.”
-
+Use this overview to reflect on your own position:
+For example, does your view on the economy align with one of the three paradigms more than the others?
+How do you think Ecological Economics should balance fundamentally replacing the mainstream economics paradigm with using tools and theories from it?
 
 ## Slides
 
 {{< slides lecture-1 >}}
-
-
-## Notes
-
-Before embarking on what this course covers, we need to accept the things it cannot cover:
-This course is not a general introduction into economic theory.
-For better and worse, it will not provide you with an (mainstream) economics eduction.
-You will not learn to think like an economist educated at an economics department, nor will you develop a deep understanding of the theories and economics degree would teach you, or be able to apply their tools and methods.
-
-
-Ecological Economics as a transdisciplinary field. -->
