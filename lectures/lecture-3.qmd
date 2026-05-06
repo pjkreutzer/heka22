@@ -18,6 +18,7 @@ title: "History of Economics and Ecology"
 
 ## Key Concepts
 
+GDP---Kuznet's warning
 ## Slides
 
 {{< slides lecture-3 >}} -->

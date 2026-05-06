@@ -22,6 +22,23 @@ title: "Principles of Ecological Economics"
 
 ## Key Concepts
 
+Pareto efficiency---an equilibrium in outcomes where no outcome can be improved without making another outcome worse
+
+price-making market---a system of exchange of goods or services where the exchanged quantities create prices without an individual actor being able to influence the price
+
+Ecological Economics
+
+    Systems perspective
+    Termodynamics (entropy)
+    Material throughput
+    Carrying capacity of the earth
+    Limits to growth
+    (Strong) sustainability
+    Precautionary principle
+    Economy as embedded system
+    Natural sinks
+
+
 ## Slides
 
 {{< slides lecture-2 >}}
@@ -52,4 +69,30 @@ It is usually assumed in ecological economics that our knowledge about both the 
 
 Very often, non-human nature is framed as natural capital, a stock from which society derives flows of ecosystem services. However, the instrumental, anthropocentric and essentially reductionist nature of this concept has been much-debated within the ecological economics literature. Ecological economists also emphasise the relevance of cultural ecosystem services, such as aesthetics, recreation and similar ‘non-material’ uses of ecosystems; these are often under-represented by other economic perspectives (Chan et al. 2012).
 
-The analytical approach of ecological economics is holistic and pluralist. First, it adopts a systems perspective, looking at ecological and economic processes from the perspective of systems, and less from the perspective of individuals. These systems are both natural ecosystems and society and its institutions. Second, it embraces pluralism of methods, approaches and values, though the extent of admissible or sensible pluralism is debated (see below). With regard to values, incommensurability (that the relevant values cannot be reduced to a common measure) is a much-debated challenge, the main questions of which are how widespread incommensurability is and how to deal with it. --> 
+The analytical approach of ecological economics is holistic and pluralist. First, it adopts a systems perspective, looking at ecological and economic processes from the perspective of systems, and less from the perspective of individuals. These systems are both natural ecosystems and society and its institutions. Second, it embraces pluralism of methods, approaches and values, though the extent of admissible or sensible pluralism is debated (see below). With regard to values, incommensurability (that the relevant values cannot be reduced to a common measure) is a much-debated challenge, the main questions of which are how widespread incommensurability is and how to deal with it. 
+
+
+“Addressing the economy as a price-making market system and unifying economics under deductive mathematical modelling has involved the conversion of all entities into objects. Land, labour, and capital take the commodity form and become mechanical cogs in the economic machine. Hence economics conceptualises the world as human capital, social capital, cultural capital, and natural capital. This conversion into capital is a prime example of failure in scientific analysis, which needs to relate to the qualities of the actual objects of study (i.e., humans, society, culture, and Nature).” ([“Rethinking Economics: An Introduction to Pluralist Economics”, 2017, p. 121](zotero://select/library/items/RZ5XCWYW)) ([pdf](zotero://open-pdf/library/items/2TDRZLFB?page=136&annotation=YJGW4GAP))
+
+For example, a fundamental point of departure from the mainstream is the recognition that the economy is an open system – requiring other systems for its inputs and disposal of its outputs.
+--> 
+
+
+“Ecological economics was founded upon the importance of placing the economy within its biophysical limits, while recognising the need for the conduct of human society to respect others both present and future, human and non-human. Key concerns included the failures of economic policy to address environmental impacts and the existing economic structure and its institutions to meet minimal standards of ethical conduct.” ([“Routledge Handbook of Ecological Economics: Nature and Society”, 2018, p. 3](zotero://select/library/items/BKCIE3ZC)) ([pdf](zotero://open-pdf/library/items/HTG9G9R5?page=22&annotation=QVRJ3WKS))
+
+
+## Studying Economies Needs to be Transdisciplinary
+
+Viewing economics as the study of human provisioning requires a broad basis of natural and social science insights and methods.
+Where the matter and energy comes from and how it can be transformed requires physics, biology, and chemistry, understanding how humans act and interact to collect, harvest, produce, and distribute this matter and energy rests on the broad range of technical and social sciences.
+
+## Fundamental Thought Patterns
+
+1. Provisioning and distribution change over time, human behavior needs to be understood within its specific context, rather than through general laws 
+
+<!-- As @ropke2020Econ101Need pointed out, not all time scales are of relevance for humans. This is actually one area I have noticed a lot of misscommunication between ecologists and economists: ecologists insists on the finality of stocks, unless replenished, they will eventually be fully depleted; no self-respecting economist would actually disagree with this fact. However, one of the reason many economists do not worry about this is the time scale of stock depletion, especially with substitutability of products and price signals: we did not run out of coal, it just became too expensive relative to oil. -->
+
+“This is the reason for precaution [Chapter 26] and safe minimum standards [Chapter 27].” ([“Routledge Handbook of Ecological Economics: Nature and Society”, 2018, p. 9](zotero://select/library/items/BKCIE3ZC)) ([pdf](zotero://open-pdf/library/items/HTG9G9R5?page=28&annotation=YJZKYX9C))
+
+
+![The economy in the environment copied from @common2005EcologicalEconomicsIntroduction [p. 2]](../assets/economy-in-environment.png){#fig-economy-environment}

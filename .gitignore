@@ -4,6 +4,7 @@ heka22_ecological_economics/
 # Quarto
 /.quarto/
 /_site/
+/_book/
 /docs/
 *_files/
 *_cache/

@@ -4,11 +4,12 @@ title: "Introduction to Ecological Economics"
 
 ## Learning Objectives
 
-1. By the end of this lesson, the students will be able to outline ecological economics as a field of research and teaching.
 
-2. Students will be able to describe historical economic growth, its benefits and environmental drawbacks.
+1. Be able to outline ecological economics as a field of teaching and research.
 
-3. Students will be able to list course objectives: building vocabulary to interact with economic topics, describing ecological economics as a subfield, applying ecological economics concepts to analyze contemporary issues, evaluating economic proposals to address environmental issues, be able to design alternative approaches to environmental issues on ecological economic grounds.
+2. Be able to list different economic fields and analyze the extent to which they represent mainstream thoughts.
+
+3. Be able to evaluate different streams within ecological economics regarding their relation to mainstream economics.
 
 ## Readings {.unnumbered}
 
@@ -20,6 +21,63 @@ title: "Introduction to Ecological Economics"
 
 - @vandenbergh2001EcologicalEconomicsThemes
 - Who wants to be an economist? in @raworth2018DoughnutEconomicsSeven
+
+# Notes
+
+For some, Ecological Economics is *a branch of economics* [@common2005EcologicalEconomicsIntroduction], for others it is an *attempt to overcome the mainstream economic paradigm* [@spash2020TaleThreeParadigms].
+
+Let us start by developing an understanding where it falls within economics, before developing an understanding of some challenges of overcoming the economics paradigm, and finally examining a few key figures and outlets of Ecological Economics.
+
+## Mainstream and Heterodox Economics
+
+In the wake of the global financial crisis in 2008, calls grew louder to pluralize economics---that is to make the study of how humans make a living more open to different perspectives than formal, mathematical models which mimic mechanical physics.
+These efforts were successful in some respects and failed in others.
+If you walk into an "Econ 101" lecture at virtually any university in the world you will likely be met by very similar content, mathematical symbols and diagrams taught from a small range of accepted text books.
+
+At the same time, many researchers now draw on a much wider toolkit than even a decade ago---and are recognized for it!
+The most recent Nobel Memorial Prize in Economic Sciences went to scholars deeply engaged in, for example, Evolutionary Economics ([Philippe Aghion and Peter Howitt](https://www.nobelprize.org/prizes/economic-sciences/2025/summary/)), Institutional Economics ([Daron Acemoglu, Simon Johnson and James A. Robinson in 2024](https://www.nobelprize.org/prizes/economic-sciences/2024/summary/)) or Behavioral Economics ([Richard H. Thaler in 2017](https://www.nobelprize.org/prizes/economic-sciences/2017/summary/)).
+There are a number of flaws with the so-called Nobel Prize in Economics and---with the exception to Thaler these economist---would likely reject the notion of being called heterodox, their works draw on and speak to mainstream economics to a larger extent, but it illustrates that economics is a diverse field, with many different approaches, methods, and research topics.
+
+A great overview of this diversity can be found at [`exploring-economics.org`](https://www.exploring-economics.org/en/orientation/) or in the book Rethinking Economics [@fischer2017RethinkingEconomicsIntroduction].
+I highly suggest you spend some time there to explore the broad range, 
+different ontologies (assumptions about what the social world is) and epistemologies (assumptions about how we can know it).
+
+@fig-exploring-economics shows just one way of making sense of the field: by looking at the problem each approach views as central.
+As you can see, Ecological Economics has some overlap with other approaches in viewing scarcity, uncertainty, and change as central economic problems.
+
+![Overview of Economic Subfields from [`exploring-economics.org`](https://www.exploring-economics.org/en/orientation/)](../assets/exploring-economics.png){#fig-exploring-economics}
+
+### What is Mainstream Economics?
+
+The fields listed on exploring economics can all be viewed as part of mainstream economics, to the extent that they use key concepts which economics students are taught in their first semesters.
+These include self-regulating markets, firms and households, supply and demand, price formation, the allocation of resources, equilibrium, efficiency and optimality [@ropke2020Econ101Need].
+
+In addition to the different fields in economics, you will often find two terms to describe the level of analysis in economics: macro- and microeconomics.
+
+In short, the macroeconomics analyzes the economy in is aggregated form, usually at the level of nations.
+Typical questions are, for example, how much economic activity happens in a given country, such as Sweden?
+How much do prices increase, and where do people find employment?
+
+Microeconomics on the other hand studies the behavior of individual agents---usually people or firms---although other levels are possible too, such as households.
+Typical questions here involve how do firms decide what and how much to produce?
+How do changes in price affect the purchasing behavior of consumers?
+
+## The core tension: How do we overcome the mainstream economic paradigm?
+
+Is Ecological Economics a real alternative to mainstream economics, or has it become co-opted, in other words taken over or absorbed, by mainstream economics?
+
+There are three broadly recognized streams within ecological economics that differ in the extent to which they engage with, draw on, and sympathize with mainstream economics.
+
+To understand the different streams within ecological economics, we will use a puzzle created by [Dallaire-Fortier, Dwarkasing, and Plomteux (no date)](https://sites.google.com/view/claradallaire-fortier/teaching/teaching-heterodox-economics-magazine?authuser=0).
+
+<!-- 
+### Scientific paradigms
+ -->
+
+## Slides
+
+{{< slides lecture-1 >}}
+
 
 <!-- 
 ## Key Concepts
