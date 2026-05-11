@@ -4,6 +4,7 @@ project:
     - "*.qmd"
     - "lectures/*.qmd"
     - "!slides/"
+    - "!lectures/lecture-8.qmd"
 
 book:
   title: "Ecological Economics"
@@ -19,6 +20,9 @@ book:
         - lectures/lecture-2.qmd
         - lectures/lecture-3.qmd
         - lectures/lecture-4.qmd
+        - lectures/lecture-5.qmd
+        - lectures/lecture-6.qmd
+        - lectures/lecture-7.qmd
     - references.qmd
 
 format:

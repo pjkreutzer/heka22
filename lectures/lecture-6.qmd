@@ -1,11 +1,24 @@
 ---
-title: "Barefoot Economics"
+title: "Plural Perspectives: Ecofeminist Economics"
 ---
 
+<!-- 
 ## Learning Objectives
 
-## Key Concepts
+::: {.callout-tip}
 
-## Slides
+## By the end of today's lecture you should:
 
-{{< slides lecture-6 >}}
+1. Be able to describe how ecological economics relates economic, ecological, and social systems
+2. Be able to list ways in which ecological economics challenges mainstream economic thinking
+3. Be able to criticize mainstream approaches to value nature from the perspective of strong sustainability
+
+::: -->
+## Readings {.unnumbered}
+
+### Mandatory {.unnumbered}
+
+- Chapter 6 "The Self-Regulating Market and the Fictitious Commodities: Labor, Land, and Money" in @polanyi2001GreatTransformation
+
+- @dengler2024ForegroundingInvisibleFoundations
+

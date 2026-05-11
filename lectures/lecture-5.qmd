@@ -2,8 +2,17 @@
 title: "Guest Lecture: Doughnut Economics"
 ---
 
-## Learning Objectives
+<!-- ## Learning Objectives -->
 
+## Readings {.unnumbered}
+
+### Mandatory {.unnumbered}
+
+- @raworth2018DoughnutEconomicsSeven
+
+
+
+<!-- 
 ## Key Concepts
 
 Chapter 4
@@ -14,4 +23,4 @@ Externalities
 {{< slides lecture-5 >}}
 
 
-Show the increase of the financial sector over time vis a vis the productive sector
+Show the increase of the financial sector over time vis a vis the productive sector -->
