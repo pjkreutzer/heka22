@@ -29,3 +29,7 @@ format:
   pjk_theme-html:
     toc: true
     number-sections: true
+    include-in-header:
+      - text: |
+          <script data-goatcounter="https://pjkreutzer.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
