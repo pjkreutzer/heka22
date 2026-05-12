@@ -1,0 +1,128 @@
+---
+title: Raw Material Usage
+subtitle: Peer Teaching
+---
+
+
+# 10-min intro: Material throughput and metabolism
+
+## 1. Frame (30 s)
+
+- Lectures 1–3 gave you the foundations: thermodynamic limits (Georgescu-Roegen), the growth/degrowth debate (Hickel/Kallis), the field's principles.
+- Today's question: how much *stuff* — energy, materials — flows through modern economies, who carries it, and can we keep this up?
+- Four papers, four perspectives. Before Group 1 starts, six vocabulary items you need.
+
+## 2. Social metabolism (1 min)
+
+- Societies, like organisms, have a *metabolism*: they take in materials and energy, transform them, release waste.
+- Inputs: biomass, fossil fuels, metal ores, non-metallic minerals, water.
+- Outputs: GHG emissions, solid waste, dissipated heat, pollutants.
+- Stocks: what stays — buildings, infrastructure, vehicles.
+- This is the framing concept behind everything today. Georgescu-Roegen gave you the thermodynamic core; "social metabolism" is what happens when you take that seriously and start measuring.
+
+*Whiteboard: simple box-and-arrow — environment → inputs → economy (with stocks) → outputs → environment.*
+
+## 3. DMC vs MF (2.5 min)
+
+- Two ways to count an economy's material use, both in tonnes per year.
+- **DMC — domestic material consumption**: what's *physically used* inside a country. Formula: domestic extraction + imports − exports.
+- **MF — material footprint**: what's *extracted globally* to satisfy a country's final demand. Includes upstream extraction in other countries.
+- Concrete example: Sweden imports an iPhone. DMC counts the phone's mass (~170 g). MF counts the iron ore, rare earths, silicon, copper, plus the coal burned to refine them — wherever extracted. Per phone, MF is roughly 30–80 kg.
+- Rich countries' MF is typically 2–4× their DMC. That gap is mostly what today's lecture is about.
+- The accounting method behind MF is called MRIO — multi-regional input-output analysis. It traces inputs through global supply chains, country by country, sector by sector. You don't need the details; just know that's where the numbers come from.
+
+*Whiteboard: same box-and-arrow, then redraw with a dotted box around "Sweden + its trading partners" to show MF expanding the boundary.*
+
+## 4. Production- vs consumption-based accounting (1 min)
+
+- Generalized version of the DMC/MF distinction. Applies to emissions too.
+- **Production-based**: attributes resource use or emissions to where they *physically happen*. UN climate accounts work this way.
+- **Consumption-based**: attributes them to where the *final consumer* lives.
+- German factory makes a car for a Swedish buyer: production-based attributes emissions to Germany, consumption-based to Sweden.
+- The two accounts give different pictures of who's responsible for what. That choice is political, not just technical.
+
+## 5. Embodied flows (45 s)
+
+- The principle that makes consumption-based accounting work.
+- "Embodied" = upstream resources or emissions that went into making something.
+- A kilo of beef has embodied land (pasture), embodied water (drinking and feed irrigation), embodied CO2 (methane, land clearing, feed production, transport).
+- Footprints sum the embodied flows of everything consumed in a country.
+
+## 6. Relative vs absolute decoupling (45 s)
+
+- Quick refresh from Hickel & Kallis.
+- **Relative decoupling**: GDP grows faster than resource use. Resource use still rises, just slower.
+- **Absolute decoupling**: GDP grows while resource use *falls*.
+- Only absolute decoupling matters for staying within planetary boundaries. Group 1 is about how often it actually happens.
+
+*Whiteboard: two stacked line charts. Both have GDP rising. First has resource use rising but more shallowly. Second has resource use falling. Label the second "what we need."*
+
+## 7. Exergy (1 min)
+
+- Not all energy is equal. Some can do useful work; some can't.
+- **Energy**: total quantity, in joules. Heat at 20°C and electricity at 20°C are both energy.
+- **Exergy**: the part of energy that can do useful work. 1 kWh of electricity = 1 kWh of exergy (fully convertible). 1 kWh of low-grade heat = much less exergy.
+- Why this matters today: one of Haberl's most surprising findings is that as we get better at converting primary energy into useful exergy, the useful exergy itself does *not* decouple from GDP. The efficiency gains drive growth instead of reducing energy use.
+
+## 8. Bridge to Group 1 (30 s)
+
+- That's the vocabulary. Three more terms — eHANPP, planetary boundaries, ecologically unequal exchange — will come up later; the groups presenting them will define them, but flag me if anything gets lost.
+- Group 1 will now ask: across 835 studies, can growth actually be decoupled from material and energy throughput? Watch for how they handle the relative-vs-absolute distinction and how production-based and consumption-based studies give different answers.
+- 
+## Group 1 — Haberl et al. 2020, "Systematic review of decoupling, part II"
+
+*Lecture contribution: opens with the central empirical question and the verdict on it. Decoupling — the green-growth strategy assumed by IPCC, OECD, UN, and EU climate policy — is rare in practice and far too slow even when it occurs. This establishes the puzzle the rest of the lecture answers: if not decoupling, then what, and why?*
+
+- [ ] **Relative vs absolute decoupling**: relative = resource use grows slower than GDP. Absolute = resource use falls while GDP rises. Only absolute is sustainability-relevant.
+- [ ] **Production-, consumption-, income-based accounting**: where emissions occur, where final demand sits, where income is generated. Often diverge sharply. The paper uses production- and consumption-based.
+- [ ] **Resource vs impact decoupling**: resource decoupling = less stuff used. Impact decoupling = same stuff, less damage (e.g., flue gas treatment). The review covers resource decoupling, not impact.
+- [ ] **Corpus**: 835 peer-reviewed articles, systematically screened from 11,609 initial hits. The corpus is the headline credential.
+- [ ] **Materials findings**: relative decoupling is frequent for production-based material use; absolute decoupling is rare and mostly tied to recession. Consumption-based studies often show no decoupling at all.
+- [ ] **CO2/GHG findings**: relative decoupling is the norm. 18 "peak-and-decline" countries (Le Quéré et al. 2019) achieved absolute decoupling at a median of −2.4%/year over 2005–2015 — far short of the −8 to −10%/year required for Paris targets.
+- [ ] **Useful exergy finding** (most surprising one): no decoupling at the useful-energy stage. Exergy = thermodynamically usable energy. Efficiency gains in converting primary → useful exergy *drive GDP growth* rather than reducing energy use. This is a macro-scale Jevons-like result.
+- [ ] **Strategy classification of 125-article subsample**: ~64% green growth framing, ~3% degrowth, ~33% causality-only. Even authors who find no absolute decoupling default to green-growth policy recommendations.
+- [ ] **Demand-side recommendations**: <2% of policy recommendations in the corpus. The literature is overwhelmingly supply-side and technology-focused.
+- [ ] **Authors' conclusion**: decoupling at observed rates cannot deliver Paris-compatible reductions; must be complemented by sufficiency-oriented strategies and absolute (not relative) reduction targets.
+
+## Group 2 — Hornborg 2006, "Footprints in the cotton fields"
+
+*Lecture contribution: answers the "why" part of Haberl's puzzle. Decoupling is structurally hard because industrial capitalism has always run on asymmetric biophysical flows — the core locally saves time and space by consuming time and space in the periphery. This is the theoretical account of metabolism that the rest of the lecture either confirms in current data or works within.*
+
+- [ ] **Time-space appropriation**: machine technology locally saves labor time and land, but only by consuming labor time and land elsewhere in the world-system. The "saving" is geographic displacement, not net gain.
+- [ ] **Environmental load displacement**: the resulting shift of resource extraction and ecological burden from industrial core to extractive periphery.
+- [ ] **The cotton/textile case (1850)**: Britain exchanges £1000 of cotton cloth for £1000 of raw cotton. In embodied terms, Britain gains 123% in labor and 210% in land. Possible only because US wages and land rents were much lower than British ones.
+- [ ] **The wool comparison (1850)**: same £1000 exchange for raw wool — Britain *loses* 76% in labor but gains 258% in land. Different commodity, different asymmetry. Worth flagging if the group only mentions cotton.
+- [ ] **Thermodynamic foundation**: industrial infrastructure (factories, cities, "technomass") requires a continuous net input of exergy (free energy / negentropy) per the Second Law. No unequal exchange = no industrial system. This is the analytical, not empirical, core of the argument.
+- [ ] **Method**: historical land/labor input statistics × market exchange rates. The novelty is *combining* the Marxist tradition of unequal exchange of labor time (Emmanuel 1972) with the ecological-footprint tradition of embodied land (Wackernagel & Rees).
+- [ ] **World-system framing**: from Wallerstein. Core = industrialized regions that import exergy and export entropy. Periphery = extractive regions that supply free energy and absorb degradation.
+- [ ] **Polemical claim**: "mainstream discourse has conspired to ignore" the unequal exchange logic. Worth flagging — it's an interpretive charge, not an empirical finding. Students should distinguish the two.
+
+## Group 3 — Wiedmann et al. 2015, "The material footprint of nations"
+
+*Lecture contribution: shows Hornborg's 1850 logic in 2008 data. The MF/MRIO methodology translates "ecologically unequal exchange" into a measurable national indicator and confirms that rich-country "dematerialization" is outsourcing, not improvement. This is the empirical bridge between Hornborg's historical-structural argument and O'Neill's normative synthesis.*
+
+- [ ] **DMC (domestic material consumption)**: domestic extraction + imports − exports, in tonnes. The standard EU/OECD indicator. Excludes upstream raw materials embodied in traded goods, so it underestimates rich-country resource use.
+- [ ] **MF (material footprint)**: allocates raw material equivalents — including upstream extraction abroad — to the final consumer. Roughly 3× larger than DMC for trade in manufactured goods.
+- [ ] **MRIO (multi-regional input-output)**: the method behind MF. Traces inputs through global supply chains, country by country and sector by sector. Eora is one such database.
+- [ ] **Headline result**: between 1990 and 2008, EU-27, OECD, USA, Japan, UK all showed apparent DMC decoupling but *no* MF decoupling — the "improvement" was outsourcing.
+- [ ] **MF/GDP elasticity ≈ 0.6**: every 10% rise in GDP per capita drives ~6% rise in MF per capita. There is no observed national-level absolute decoupling on the MF metric for high-income countries.
+- [ ] **Construction materials drive it**: cement, sand, aggregates, and metals for buildings/infrastructure are the dominant component of MF growth in rich economies.
+- [ ] **Country exceptions**: China and India achieve relative decoupling on both metrics. Brazil, Chile, Russia show declining productivity (they're exporters). South Africa is the one case of absolute decoupling on both DMC and MF.
+
+## Group 4 — O'Neill et al. 2018, "A good life for all within planetary boundaries"
+
+*Lecture contribution: reframes the whole metabolism question. Given that decoupling is rare (Haberl), structurally constrained (Hornborg), and confirmed insufficient in current data (Wiedmann) — the right question is no longer "can we grow within limits" but "can we deliver wellbeing within limits." Shifts the analytical unit from GDP to provisioning systems and shows that no country currently manages it, but the data suggest basic needs could be met within limits if provisioning systems were redesigned.*
+
+- [ ] **Safe-and-just-space (SJS) framework**: from Raworth's Doughnut. Inner ring = social foundation (basic needs met). Outer ring = ecological ceiling (planetary boundaries). The "doughnut" is the safe space between.
+- [ ] **7 biophysical indicators**: CO2 emissions, phosphorus, nitrogen, blue water, eHANPP, ecological footprint, material footprint. Per-capita downscaling of the global planetary boundary.
+- [ ] **eHANPP**: embodied human appropriation of net primary production. The amount of biomass diverted from ecosystems by human use, including embodied via trade. Used here as a measurable proxy for land-system change.
+- [ ] **11 social indicators**: 9 need satisfiers (nutrition, sanitation, income, energy access, education, social support, equality, democratic quality, employment) + 2 wellbeing measures (life satisfaction, healthy life expectancy).
+- [ ] **Headline result**: no country meets all 11 social thresholds within all 7 biophysical boundaries. The more social thresholds achieved, the more biophysical boundaries transgressed.
+- [ ] **Country specifics**: only 3 countries (Austria, Germany, Netherlands) hit all 11 social thresholds — and they transgress most biophysical boundaries. 16 countries stay within all 7 biophysical boundaries — but very few meet social thresholds. USA hits 9/11 social, transgresses all 7 biophysical. Sri Lanka 3/11 social, 0 biophysical.
+- [ ] **Vietnam outlier**: 6 social thresholds met while transgressing only 1 biophysical boundary (CO2). Frequently cited as evidence the relationship is not inevitable.
+- [ ] **Differential coupling**: basic physical needs (nutrition, sanitation, energy access, income) are tightly coupled to resource use *but* achievable at relatively low resource levels. Qualitative goals (life satisfaction, equality, democratic quality, education) appear to require 2–6× the per-capita biophysical boundary.
+- [ ] **Saturation curves**: best-fit relationships between resource use and social outcomes are linear-log or saturation-shaped — diminishing returns. Implication: maxed-out resource use buys little additional wellbeing.
+- [ ] **Provisioning systems**: the paper's key conceptual move. The infrastructure, institutions, and markets that mediate resource use → social outcomes. These must be redesigned, not just individual behavior or end-of-pipe technology.
+- [ ] **Methodological caveat worth flagging**: per-capita downscaling assumes equal distribution. The paper acknowledges this excludes historical responsibility, regional variability, and equity considerations across producer/consumer roles.
+
+## References
