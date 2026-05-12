@@ -56,6 +56,8 @@ Cite correctly, following the department's citation style. The library offers su
 Your arguments need to be coupled to the lectures, seminars, and assigned readings for this course.
 You are free to use additional material.
 
+You may write this in English, or Swedish.
+
 ## Housekeeping {.unnumbered}
 
 The best way to get in touch with me is through mail.

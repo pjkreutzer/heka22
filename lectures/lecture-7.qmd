@@ -20,6 +20,6 @@ title: "Degrowth"
 
 - @demaria2013WhatDegrowthActivist
   
-### Mandatory {.unnumbered}
+### Recommended {.unnumbered}
 
 - Introduction in @barlow2022DegrowthStrategyHow + chapters that interest you
