@@ -1,0 +1,450 @@
+Quiz title: Foundations of Ecological Economics
+Quiz description: This multiple choice quiz tests your understanding of the first four lectures, the foundations of ecological economics. You may use all literature and course resources presented so far; you may not use AI. This quiz will give you up to 20 bonus points towards the final exam grade.
+
+shuffle answers: true
+show correct answers: true
+one question at a time: false
+
+GROUP
+pick: 6
+points per question: 1
+
+Title: Q1 - Recall (LO1)
+Points: 1
+1.  Which best characterizes ecological economics as a field?
+... Ecological Economics is deliberately pluralistic. Costanza describes it as a commitment across economists, ecologists, and others to learn from each other rather than a single replacement paradigm.
+a) A unified paradigm with a shared theoretical core that has replaced neoclassical economics
+*b) A pluralistic, interdisciplinary field linking economic, ecological, and social systems
+c) A subfield of environmental economics focused on pricing pollution externalities
+
+Title: Q2 - Recall (LO1)
+Points: 1
+1.  Pareto efficiency, refers to a situation where resources cannot be reallocated to make one individual better off without making at least one individual worse off. It is a keyword of which paradigm within ecological economics?
+... Ecological Economics is deliberately pluralistic. Costanza describes it as a commitment across economists, ecologists, and others to learn from each other rather than a single replacement paradigm.
+a) New Environmental Pragmatism
+*b) New Resource Economics
+c) Socio-Ecological Economics
+
+Title: Q3 - Contrast (LO2)
+Points: 1
+1.  Which best distinguishes ecological economics from environmental economics?
+... Environmental economics extends neoclassical price theory to externalities. Ecological Economics rejects the closed-loop "circular flow" image and starts from biophysical limits. Environmental economics usually uses mathematical formalism, but ecological economics does not reject it outright.
+a) Ecological Economics rejects the use of math; environmental economics requires it
+*b) Ecological Economics treats the economy as embedded within finite biophysical systems; environmental economics typically treats environmental problems as market failures to be priced
+c) Environmental economics treats the economy as a subsystem of the biosphere; Ecological Economics does not
+
+Title: Q9 - Recall (LO3)
+Points: 1
+1.  Strong sustainability requires that:
+... Costanza ch.3 — strong sustainability treats natural, human-made, and human capital as complements; weak sustainability treats them as substitutes.
+*a) The stock of natural capital be maintained over time, since types of capital are complements rather than substitutes
+b) Total capital (natural + human-made + human) be maintained, allowing substitution among types
+c) Per-capita consumption be held constant across generations
+
+Title: Q10 - Contrast (LO3)
+Points: 1
+1.  Which assumption distinguishes weak from strong sustainability?
+... Both positions can accept intergenerational obligation; they diverge on substitutability.
+a) Whether economic growth is desirable
+*b) Whether human-made capital can substitute for natural capital
+c) Whether future generations have any moral standing
+
+Title: Q12 - Recall (LO1)
+Points: 1
+1.  In Daly's framework, "throughput" refers to:
+... Throughput is a flow concept (matter/energy through the economy), not a stock or a monetary measure.
+a) The monetary value added by an economy per year
+*b) The flow of low-entropy matter and energy from environment, through the economy, and back as high-entropy waste
+c) The total stock of manufactured capital in use
+
+Title: Q13 - Recall (LO2)
+Points: 1
+1.  Daly argues economics must answer three distinct questions: allocation, distribution, and scale. Which is most neglected by mainstream economics?
+... Allocation and (to a lesser extent) distribution sit inside mainstream economics; the question of optimal scale relative to the biosphere is the Ecological Economics addition.
+a) How to allocate resources efficiently
+*b) How to scale economic throughput within ecological limits
+c) How to distribute income across individuals
+
+Title: Q16 - Recall (LO2)
+Points: 1
+1.  In the Pigouvian tradition, pollution is treated as:
+... Pigovian taxes internalize external costs; option C) is a different mainstream school.
+a) A violation of natural rights that markets cannot remedy
+*b) An externality to be corrected by aligning prices with social costs
+c) A failure of property rights, best fixed by privatization alone
+
+Title: Q51 - Contrast (LO2)
+Points: 1
+1.  Which best distinguishes a stock from a flow in ecological economics?
+... Standard distinction. The sustainability criterion follows directly: a flow that exceeds the regeneration rate of its source stock cannot be sustained.
+a) Stocks are physical; flows are monetary
+*b) Stocks exist at a point in time (e.g., m³ of forest standing); flows occur over an interval (e.g., m³ harvested per year)
+c) Stocks are renewable; flows are non-renewable
+
+Title: Q52 - Contrast (LO2)
+Points: 1
+1.  In Georgescu-Roegen's funds–flows model of production, which is correctly classified as a "fund"?
+... Funds (labor, capital equipment, Ricardian land) provide services without themselves disappearing in the act of production. Flows (energy, raw materials) are transformed or consumed and cannot be recovered.
+a) A barrel of oil burned in an engine
+b) Iron ore smelted into steel
+*c) A factory building used across many production cycles
+
+Title: Q55 - Contrast (LO1)
+Points: 1
+1.  The shift from "empty world" to "full world" economics, as described by Daly and Costanza, refers most directly to a change in:
+... Empty world: economy is small relative to the biosphere, sources and sinks effectively unlimited. Full world: the economy now dominates, both sources and sinks are binding.
+a) The empirical accuracy of macroeconomic models
+*b) The relative scale of the economy compared to the biosphere
+c) Population growth in developing countries
+
+Title: Q58 - Recall (LO2)
+Points: 1
+1.  Raworth's first principle, "change the goal," proposes replacing GDP growth with:
+... The Doughnut sets a social foundation (inner ring) and an ecological ceiling (outer ring), with the safe-and-just space for humanity in between.
+a) The steady state
+*b) The Doughnut — meeting human needs within planetary boundaries
+c) Pareto-efficient allocation
+
+Title: Q59 - Contrast (LO2)
+Points: 1
+1.  Raworth's seventh principle, "be agnostic about growth," is best understood as:
+... Growth-agnostic is not anti-growth. The point is structural: economies should not collapse in the absence of growth, which currently they do.
+a) Advocating zero GDP growth indefinitely
+*b) Designing economies that can thrive whether or not they grow, rather than depending on growth
+c) Targeting negative GDP growth as a deliberate policy aim
+
+Title: Q19 - Recall (LO1)
+Points: 1
+1.  The Physiocrats of 18th-century France believed economic value originated from:
+... The Physiocrats took their name from belief in "the rule of nature" — agricultural land was the source of net product.
+a) The labor of artisans and merchants
+*b) Agrarian land worked by farmers
+c) The accumulation of gold and silver (a mercantilist position)
+
+Title: Q21 - Contrast (LO2)
+Points: 1
+1.  Which best distinguishes the central concerns of Malthus and Ricardo about land?
+... Malthus = exponential population vs arithmetic food. Ricardo = extensive/intensive margins, rent accruing to the best land.
+*a) Malthus focused on population outstripping food supply; Ricardo focused on differential rent from variations in land quality
+b) Malthus argued land was unlimited; Ricardo argued it was finite
+c) Malthus was mainly trying to explain why some people were richer than others; Ricardo why long term population growth required ever more land
+
+Title: Q24 - Recall (LO1)
+Points: 1
+1.  The second law of thermodynamics (the "entropy law"), formalized by Clausius, states that in a closed system:
+... Common confusion: the first law is conservation, the second is irreversible degradation of available energy.
+a) Energy can neither be created nor destroyed (this is the first law)
+*b) The amount of energy available to do work only decreases with use
+c) Matter and energy are interchangeable (this is Einstein's relation, not the second law)
+
+Title: Q25 - Recall (LO2)
+Points: 1
+1.  Nicholas Georgescu-Roegen's central claim was that:
+... "The Entropy Law and the Economic Process" (1971) — economic activity dissipates exergy; new technology speeds this up rather than escaping it.
+a) Population growth alone determines the long-run trajectory of economies
+b) Markets always allocate scarce resources efficiently
+*c) Economic processes ultimately degrade available energy and material order, with implications for long-run growth
+
+Title: Q27 - Recall (LO2)
+Points: 1
+1.  Herman Daly's "steady-state economy" requires that:
+... Steady state is about throughput, not GDP. The economy can still change qualitatively.
+a) GDP remain constant year over year
+*b) Flows of matter and energy through the economy be held at a sustainable level
+c) Population, technology, and tastes never change
+
+Title: Q31 - Recall (LO1)
+Points: 1
+1.  "Domestic extraction" (DE) measures:
+... DE is territorial extraction only; option A describes MF.
+a) All materials embodied in a country's final consumption, including upstream extraction abroad
+*b) The mass of raw materials extracted within a country's territory
+c) The monetary value of resource exports
+
+Title: Q32 - Recall (LO1)
+Points: 1
+1.  The "material footprint" (MF) of a country is:
+... MF is consumption-based; option A is direct physical trade, much smaller than MF.
+a) The mass of materials physically crossing its borders as imports
+*b) Global raw material extraction allocated to its final demand, including upstream flows along supply chains
+c) The total value added by its mining and quarrying sectors
+
+Title: Q33 - Contrast (LO1)
+Points: 1
+1.  "Domestic material consumption" (DMC) differs from material footprint primarily because DMC:
+... DMC = DE + imports − exports, all in actual physical mass. MF adds upstream raw-material equivalents along supply chains.
+*a) Excludes the upstream raw materials embodied in imports and exports
+b) Includes only fossil fuels and metal ores
+c) Is calculated per capita while MF is calculated per dollar of GDP
+
+Title: Q36 - Recall (LO1)
+Points: 1
+1.  Wiedmann et al. found that, on average, a country's use of nondomestic resources (raw-material equivalents) is:
+... Most material moved to enable trade never crosses a border — it is process waste and upstream extraction.
+a) Roughly equal to the physical mass of its traded goods
+*b) About threefold larger than the physical mass of its traded goods
+c) About one-third the physical mass of its traded goods
+
+Title: Q39 - Recall (LO2)
+Points: 1
+1.  Across countries, the material footprint is most tightly correlated with:
+... MF, carbon footprint, and ecological footprint co-vary closely (Haberl 2019). Materials and emissions are mostly the same physical story.
+*a) CO₂ emissions and the carbon footprint
+b) Employment levels
+c) Income inequality
+
+Title: Q40 - Recall (LO3)
+Points: 1
+1.  Haberl et al.'s (2020) systematic review of the decoupling evidence concludes that absolute decoupling of GDP from resource use is:
+... Some recent absolute decoupling has been observed (notably for CO₂ in a few countries), but the pace is far below what 1.5/2 °C targets demand.
+a) Common and sufficient to meet climate targets
+*b) Rare, and where observed, insufficient for stringent climate targets
+c) Impossible under any economic system
+
+Title: Q41 - Contrast (LO3)
+Points: 1
+1.  "Relative" decoupling means that:
+... Relative decoupling = falling intensity. Absolute decoupling = falling levels alongside GDP growth.
+*a) GDP grows faster than resource use, while resource use still rises in absolute terms
+b) Resource use declines while GDP remains constant
+c) Resource use and GDP both decline at the same rate
+
+Title: Q44 - Recall (LO2)
+Points: 1
+1.  Hornborg's analysis of 1850s British trade argues that the success of the textile industry depended on:
+... Hornborg's calculation: £1,000 of cotton manufactures exchanged for £1,000 of raw cotton yielded Britain a 123% gain in embodied labor and 210% gain in embodied land.
+a) Domestic technological innovation alone, independent of colonial inputs
+*b) Net imports of embodied land and labor from peripheral regions (cotton from the American South, etc.)
+c) High British wages attracting skilled workers from Europe
+
+Title: Q47 - Recall (LO3)
+Points: 1
+1.  O'Neill et al. (2018) report that across more than 150 countries:
+... The headline finding of "A Good Life for All Within Planetary Boundaries."
+*a) No country meets its citizens' basic needs at a globally sustainable level of resource use
+b) High-income countries have achieved both basic needs and ecological sustainability
+c) Wealth and life satisfaction are uncorrelated with resource use
+
+END_GROUP
+
+GROUP
+pick: 2
+points per question: 2
+
+Title: Q4 - Apply (LO2)
+Points: 2
+1.  A textbook claims that natural resources are essentially limitless because new technology produces near-perfect substitutes. This claim is most consistent with which paradigm?
+... Infinite substitutability is a core neoclassical assumption (Solow). Ecological Economics rejects it.
+a) Socio-ecological Economics
+b) New Resource Economics
+*c) Mainstream (neoclassical) economics
+
+Title: Q5 - Evaluate (LO3)
+Points: 2
+1.  Within ecological economics, scholars who closely engage with neoclassical methods (e.g., monetary valuation of ecosystem services) are contrasted with those who reject those methods as incompatible with biophysical limits. This division reflects:
+... Spash labels these "shallow" vs "deep" streams. The split is methodological/ideological, not geographic.
+a) A geographic split between European and US ecological economists
+*b) Methodological and political differences over how closely to engage with mainstream economics
+c) Disagreement over whether climate change is human made
+
+Title: Q7 - Apply (LO2)
+Points: 2
+1.  A policy report assumes GDP growth can continue indefinitely, and that technological progress will overcome any resource limit. This reflects which worldview?
+... Boulding contrasted "frontier"/"cowboy" economics (open system, limitless inputs) with "spaceship" economics (closed system, recycle and recirculate).
+a) Spaceship Earth economics
+*b) Cowboy / Frontier economics
+c) Steady-state economics
+
+Title: Q8 - Evaluate (LO3)
+Points: 2
+1.  An ecological economist argues that placing prices on nature's services can erode intrinsic environmental motivation. This position fits most comfortably within:
+... The motivation-crowding argument (Bowles, Raworth ch.3) is incompatible with the Pigouvian assumption that priced incentives complement intrinsic motivation.
+a) Mainstream neoclassical economics
+*b) A deeper, social/political stream of ecological economics
+c) Welfare economics in the Pigouvian tradition
+
+Title: Q11 - Apply (LO3)
+Points: 2
+1.  A government proposes offsetting deforestation by investing the timber revenue in education and infrastructure. From a strong sustainability perspective, the proposal is:
+... Strong sustainability would not accept critical natural capital being traded for any amount of other capital.
+a) Acceptable, because total capital is preserved
+*b) Problematic, because natural and human-made/human capital are not substitutes
+c) Acceptable, because future generations gain skills
+
+Title: Q14 - Apply (LO1)
+Points: 2
+1.  The image of the economy as an open subsystem embedded in the biosphere is most strongly associated with:
+... While Daly's full world argument also assumes an embedded system, the key difference of the full world argument is the *size of the economy* embedded in the subsystem.
+a) Adam Smith's invisible hand
+b) Herman Daly's full world economics
+*c) Kenneth Boulding's "spaceship economy"
+
+Title: Q15 - Evaluate (LO3)
+Points: 2
+1.  A field experiment in Mexico finds that paying farmers for forest conservation gradually replaces their stated motivation from intrinsic to financial. This finding is most often used to argue that:
+... Raworth ch.3 / Bowles — extrinsic incentives can displace, not just supplement, intrinsic motivation.
+*a) Monetary valuation can crowd out intrinsic environmental motivations
+b) Payment levels should be increased to maintain conservation
+c) Farmers in low-income countries respond only to monetary incentives
+
+Title: Q17 - Analyze (LO3)
+Points: 2
+1.  The argument that biodiversity is best conserved by establishing bioreserves alone, while leaving the rest of the economy unchanged, is criticized in Ecological Economics because:
+... Costanza ch.3 — protection by enclosure displaces rather than reduces aggregate pressure.
+a) Bioreserves are too costly to maintain
+b) Bioreserves cannot be politically sustained over long time horizons
+*c) Pressures displaced from reserves intensify exploitation outside them
+
+Title: Q18 - Evaluate (LO3)
+Points: 2
+1.  A government uses contingent valuation surveys to price a wetland's ecosystem services. From a strong sustainability perspective, the main problem is:
+... Surveys may have biases (C), but the strong-sustainability critique is structural: substitutability cannot apply to critical natural capital.
+a) Survey costs scale poorly to large ecosystems
+*b) Treating critical natural capital as substitutable risks its irreversible loss once priced and traded
+c) Respondents systematically overstate willingness to pay
+
+Title: Q53 - Apply (LO2)
+Points: 2
+1.  A textbook depicts production as Y = A·K^α·L^(1−α) and claims that as K rises, less L is needed and vice versa. Georgescu-Roegen's main objection is that the function:
+... The Cobb-Douglas function describes substitution among agents of production but says nothing about the throughput passing through them. For ecological economists, what's missing is the whole biophysical story.
+a) Mismeasures the productivity term A
+*b) Contains only funds (K, L) and omits the flows of matter and energy that are actually transformed in production
+c) Wrongly treats K and L as funds rather than flows
+
+Title: Q54 - Analyze (LO3)
+Points: 2
+1.  The Cobb-Douglas form assumes high substitutability between K and L. Why does this become problematic when natural resources are folded into K?
+... This is exactly the substitutability assumption strong sustainability rejects. Hiding nature inside K and then permitting K–L substitution is how mainstream theory makes infinite resource depletion sound reasonable.
+*a) It implies natural resources can always be substituted by other forms of capital, justifying their depletion in principle
+b) It implies labor will always be more important than capital in the long run
+c) It overstates the role of total factor productivity A
+
+Title: Q56 - Apply (LO2)
+Points: 2
+1.  A minister argues that economic activity should grow without bound because past technology has always produced substitutes for depleted resources. Which pre-analytic vision does this argument presuppose?
+... The "substitutes will appear" claim is internally consistent only if biospheric sources and sinks are effectively unlimited — i.e., if the world is empty. In a full world, the substitute itself runs into the same limits.
+*a) Empty world
+b) Full world
+c) Steady state
+
+Title: Q57 - Evaluate (LO3)
+Points: 2
+1.  In a "full world," which mainstream assumption becomes most directly problematic?
+... Allocation logic survives the empty-to-full transition. The assumption that scale doesn't matter does not.
+a) That market prices help allocate resources among uses
+b) That allocation and distribution are conceptually distinct questions
+*c) That growth in physical throughput will not encounter biospheric limits
+
+Title: Q60 - Apply (LO2)
+Points: 2
+1.  A central bank redesigns its mandate to support sufficient and equitable provisioning instead of maximizing GDP growth. This is most directly an example of which Raworth principle?
+... Reorienting institutions away from GDP as the overarching target is the canonical "change the goal" move.
+*a) Change the goal
+b) Nurture human nature
+c) Get savvy with systems
+
+Title: Q61 - Synthesize (LO3)
+Points: 2
+1.  Which of Raworth's seven principles most directly challenges the substitutability assumption between natural and human-made capital?
+... The embedded-economy diagram replaces the closed circular flow. Once nature is foundational rather than peripheral, substitutability becomes incoherent — there is no "outside" capital that could stand in for the biosphere.
+*a) See the big picture — embed the economy within society and within the living world
+b) Nurture human nature
+c) Be agnostic about growth
+
+Title: Q20 - Apply (LO2)
+Points: 2
+1.  By the late 20th century, mainstream economics had reduced the classical factors of production from three to two by:
+... Smith and Ricardo recognized land, labor, capital; mainstream economics later treats land as one more form of capital.
+a) Combining labor and capital into a single category
+*b) Absorbing land into capital as just another substitutable input
+c) Reclassifying capital as a form of labor
+
+Title: Q28 - Analyze (LO2)
+Points: 2
+1.  Jevons observed that more efficient coal use in 19th-century Britain led to:
+... The Jevons paradox / rebound effect — still highly relevant to debates over technological "decoupling."
+a) Decreased overall coal consumption, as efficiency predicted
+*b) Increased overall coal consumption, because efficiency lowered effective price and expanded use
+c) Stable coal consumption, since population growth offset efficiency
+
+Title: Q30 - Synthesize (LO3)
+Points: 2
+1.  Ecological economists argue that any successor to mainstream economics must, at minimum:
+... The minimum requirement is the shift in pre-analytic vision — economy as embedded subsystem, not closed loop.
+a) Eliminate all use of mathematical modeling
+*b) Treat the economy as an open subsystem governed by biophysical limits
+c) Restore commodity money as the basis of value
+
+Title: Q34 - Apply (LO1)
+Points: 2
+1.  A country with substantial domestic mining and large ore exports but modest final consumption will most likely show:
+... For exporters of raw materials, DMC overstates the resource use attributable to their own consumption; MF reallocates extractions to importing countries.
+*a) DMC higher than MF (a "producer" profile, e.g., Australia, Chile)
+b) MF higher than DMC (a "consumer" profile)
+c) DMC equal to MF, since the country trades extensively
+
+Title: Q35 - Apply (LO1)
+Points: 2
+1.  A wealthy post-industrial country importing large volumes of finished and semi-finished goods will most likely show:
+... The UK and Japan are the textbook examples: DMC has declined while MF has risen markedly.
+a) DMC higher than MF
+b) DMC and MF that are nearly identical
+*c) MF substantially higher than DMC
+
+Title: Q37 - Evaluate (LO3)
+Points: 2
+1.  Apparent absolute decoupling of GDP from resource use in high-income countries, when measured by DMC, is largely an artifact of:
+... When MF (consumption-based) is used instead of DMC, the apparent decoupling typically disappears.
+a) Improvements in measurement methods over time
+*b) Offshoring extraction and processing while continuing to consume the goods
+c) Falling populations in those countries
+
+Title: Q42 - Analyze (LO3)
+Points: 2
+1.  In Haberl et al.'s review, the dominant policy framing in the empirical decoupling literature is:
+... About 64% of reviewed articles framed findings as green growth; only ~3% adopted a degrowth perspective.
+a) Degrowth, prioritizing reductions in resource use over GDP growth
+b) Steady state, holding both GDP and resource use constant
+*c) Green growth, treating GDP growth as a set variable
+
+Title: Q43 - Evaluate (LO3)
+Points: 2
+1.  A key reason "green growth" is considered implausible by Hickel and Kallis is that:
+... The argument is empirical: required rates of absolute decoupling outstrip anything observed anywhere.
+a) Renewable energy is too expensive to deploy at scale
+*b) Empirical decoupling rates fall far short of what climate targets require
+c) Green growth violates international trade rules
+
+Title: Q45 - Apply (LO2)
+Points: 2
+1.  "Environmental load displacement" describes:
+... The term is biophysical, not just industrial: extraction, pollution, and entropy generation move along with the goods.
+*a) The shifting of resource extraction and pollution burdens onto other regions through trade
+b) The natural movement of pollutants across ecosystem boundaries
+c) The relocation of factories due to changes in labor costs
+
+Title: Q46 - Evaluate (LO2)
+Points: 2
+1.  Research showing that the US, EU, and Japan are net importers of embodied energy, materials, and land is most commonly used to support the claim that:
+... This is the modern ecologically-unequal-exchange argument (Hornborg) — money flows look reciprocal; biophysical flows are asymmetric.
+a) Free trade benefits all participating countries roughly equally
+*b) Industrial cores systematically appropriate biophysical resources from peripheries
+c) Resource-exporting countries are more productive than industrial cores
+
+Title: Q48 - Analyze (LO3)
+Points: 2
+1.  According to O'Neill et al., universally achieving *qualitative goals* such as high life satisfaction is associated with resource use that is approximately:
+... Physical needs (nutrition, sanitation) can be met within boundaries; qualitative goals currently cannot under existing provisioning systems.
+a) At the per-capita planetary boundary
+*b) 2 to 6 times the per-capita planetary boundary
+c) Below the per-capita planetary boundary
+
+Title: Q50 - Synthesize (LO3)
+Points: 2
+1.  Taken together, the evidence on decoupling, the material footprint, and circular-economy potential supports which strategic conclusion?
+... The convergent message across Wiedmann, Haberl, and O'Neill: relative gains exist but absolute reductions don't follow from efficiency alone.
+a) Efficiency improvements alone are sufficient to bring resource use within planetary boundaries
+*b) Sufficiency-oriented strategies and absolute reduction targets are needed in addition to efficiency
+c) Continued GDP growth is the most reliable path to lower resource use
+
+END_GROUP
