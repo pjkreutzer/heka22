@@ -1,19 +1,17 @@
 ---
-title: "Plural Perspectives: Ecofeminist Economics"
+title: "Markets and Their Invisible Foundations"
 ---
 
-<!-- 
-## Learning Objectives
+# Learning Objectives
 
 ::: {.callout-tip}
+## By the end of today's lecture you should be able to:
+1. Explain Polanyi's distinction between real and fictitious commodities and what it implies for the limits of self-regulating markets
+2. Describe the double movement and identify contemporary examples
+3. Articulate the ecofeminist critique that mainstream economics renders unpaid care work and ecosystem functions invisible
+4. Apply an intersectional lens to a provisioning system (e.g., healthcare) and identify whose labor sustains it
+:::
 
-## By the end of today's lecture you should:
-
-1. Be able to describe how ecological economics relates economic, ecological, and social systems
-2. Be able to list ways in which ecological economics challenges mainstream economic thinking
-3. Be able to criticize mainstream approaches to value nature from the perspective of strong sustainability
-
-::: -->
 ## Readings {.unnumbered}
 
 ### Mandatory {.unnumbered}
