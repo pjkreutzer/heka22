@@ -22,3 +22,7 @@ title: "Plural Perspectives: Ecofeminist Economics"
 
 - @dengler2024ForegroundingInvisibleFoundations
 
+## Slides
+
+{{< slides lecture-6 >}}
+
