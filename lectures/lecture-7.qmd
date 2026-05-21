@@ -2,18 +2,17 @@
 title: "Degrowth"
 ---
 
-<!-- 
-## Learning Objectives
+# Learning Objectives
 
 ::: {.callout-tip}
+## By the end of today's lecture you should be able to:
+1. Explain how GDP is measured in practice and identify what its production boundary includes and excludes
+2. Evaluate the empirical case for green growth, including the limits of the Environmental Kuznets Curve
+3. Define degrowth as a slogan, an interpretative frame, and a field of research, and distinguish it from recession
+4. Outline the main strategies and policy proposals associated with degrowth and articulate at least one open question
+:::
 
-## By the end of today's lecture you should:
 
-1. Be able to describe how ecological economics relates economic, ecological, and social systems
-2. Be able to list ways in which ecological economics challenges mainstream economic thinking
-3. Be able to criticize mainstream approaches to value nature from the perspective of strong sustainability
-
-::: -->
 ## Readings {.unnumbered}
 
 ### Mandatory {.unnumbered}
@@ -23,3 +22,9 @@ title: "Degrowth"
 ### Recommended {.unnumbered}
 
 - Introduction in @barlow2022DegrowthStrategyHow + chapters that interest you
+- @kallis2018ResearchDegrowth
+- Introduction of @kuznets1934
+
+## Slides
+
+{{< slides lecture-7 >}}

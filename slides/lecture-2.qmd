@@ -1,6 +1,6 @@
 ---
 title: Principles of Ecological Economics
-subtitle: HEKA22
+subtitle: HEKA22---Lecture 2
 author: Jonas Kreutzer
 date: last-modified
 ---

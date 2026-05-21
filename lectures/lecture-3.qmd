@@ -12,7 +12,7 @@ title: "History of Economics and Ecology"
 
 - Chapter 5 in @raworth2018DoughnutEconomicsSeven
 
-
+{{< slides lecture-3 >}}
 <!-- 
 ## Learning Objectives
 
@@ -21,4 +21,4 @@ title: "History of Economics and Ecology"
 GDP---Kuznet's warning
 ## Slides
 
-{{< slides lecture-3 >}} -->
+ -->

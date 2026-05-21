@@ -1,6 +1,6 @@
 ---
 title: Introduction to Ecological Economics
-subtitle: HEKA22
+subtitle: HEKA22---Lecture 1
 author: Jonas Kreutzer
 date: last-modified
 ---

@@ -1,11 +1,15 @@
 ---
-title: "Degrowth"
+title: "Bioeconomy"
 ---
 
-## Learning Objectives
+## Readings {.unnumbered}
 
-## Key Concepts
+### Mandatory {.unnumbered}
 
-## Slides
+- @vivien2019HijackingBioeconomy
+- @kroger2012ExpansionIndustrialTree
+  
+### Recommended {.unnumbered}
 
-{{< slides lecture-8 >}}
+- Kappa in @kreutzer2026TreesCabbagesInnovation
+

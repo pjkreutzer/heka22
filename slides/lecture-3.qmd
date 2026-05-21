@@ -3,6 +3,10 @@ title: History of the Environment in Economic Thought
 subtitle: HEKA22---Lecture 3
 author: Jonas Kreutzer
 date: last-modified
+format: 
+    pjk_theme-revealjs:
+        width: 1500
+        height: 1000
 ---
 
 # Learning Objectives

@@ -3,7 +3,6 @@ title: Raw Material Usage
 subtitle: Peer Teaching
 ---
 
-
 # 10-min intro: Material throughput and metabolism
 
 ## 1. Frame (30 s)
