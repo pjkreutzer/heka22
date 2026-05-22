@@ -34,11 +34,11 @@ Demonstrate the ability to independently apply anthropological, historical, soci
 | Wed 6 May (PM) | 2 | [Principles of Ecological Economics](lectures/lecture-2.html) | [Slides](lectures/lecture-2.html#slides) |
 | Fri 8 May | 3 | [History of Economics and Ecology](lectures/lecture-3.html) ||
 | Mon 11 May | 4 | [Raw Materials and Metabolism](lectures/lecture-4.html) | Peer Teaching |
-| Wed 13 May | 5 | Doughnut Economics | Guest Lecture |
-| Tue 19 May | 6 | Plural Perspectives: Eco-Feminist Economics ||
-| Thu 21 May | 7 | Degrowth ||
-| Tue 26 May | 8 | Your Choice ||
-| Thu 28 May || Seminar: Peer Feedback ||
+| Wed 13 May | 5 | [Doughnut Economics](lectures/lecture-5.html) | Guest Lecture |
+| Tue 19 May | 6 | [Markets and Their Invisible Foundations](lectures/lecture-6.html) |[Slides](lectures/lecture-6.html#slides)|
+| Thu 21 May | 7 | [Degrowth](lectures/lecture-7.html) ||
+| Tue 26 May | 8 | [Bioeconomy](lectures/lecture-8.html) ||
+| Thu 28 May || [Seminar: Peer Feedback](lectures/seminar.html) ||
 
 ### Assignments
 

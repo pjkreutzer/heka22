@@ -10,17 +10,3 @@ title: "Guest Lecture: Doughnut Economics"
 
 - @raworth2018DoughnutEconomicsSeven
 
-
-
-<!-- 
-## Key Concepts
-
-Chapter 4
-Externalities
-
-## Slides
-
-{{< slides lecture-5 >}}
-
-
-Show the increase of the financial sector over time vis a vis the productive sector -->

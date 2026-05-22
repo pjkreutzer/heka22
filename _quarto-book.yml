@@ -23,6 +23,7 @@ book:
         - lectures/lecture-5.qmd
         - lectures/lecture-6.qmd
         - lectures/lecture-7.qmd
+        - lectures/seminar.qmd
     - references.qmd
 
 format:
