@@ -6,7 +6,9 @@
       "Bash(git commit:*)",
       "Bash(grep -E \"\\\\.\\(yml|yaml|qmd|md\\)$\")",
       "Bash(cat /Users/research/teaching/eose10/presentations/*.qmd)",
-      "Bash(quarto:*)"
+      "Bash(quarto:*)",
+      "Bash(cat /Users/research/teaching/heka22/slides/*.yml)",
+      "Bash(ls /Users/research/teaching/heka22/_quarto*.yml)"
     ]
   }
 }
