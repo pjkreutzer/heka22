@@ -1,6 +1,8 @@
 /grading/
 heka22_ecological_economics/
 
+*.mp4
+
 # Quarto
 /.quarto/
 /_site/
