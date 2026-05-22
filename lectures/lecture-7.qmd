@@ -23,7 +23,7 @@ title: "Degrowth"
 
 - Introduction in @barlow2022DegrowthStrategyHow + chapters that interest you
 - @kallis2018ResearchDegrowth
-- Introduction of @kuznets1934
+- Introduction of @kuznets1934national
 
 ## Slides
 

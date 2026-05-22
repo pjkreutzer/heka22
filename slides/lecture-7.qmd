@@ -80,7 +80,7 @@ GDP was designed for *one* job (planning aggregate production in a crisis or war
 
 ![](../assets/uses-abuses-gdp.png)
 
-[@kuznets1934national ]{.slide-cite}
+[@kuznets1934national]{.slide-cite}
 
 ::: notes
 This is from the very first national income report Kuznets delivered to Congress, in 1934. The man who built the thing told the government, in the same document, that it should not be used the way it was about to be used.
