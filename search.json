@@ -231,7 +231,18 @@
     "href": "lectures/lecture-6.html",
     "title": "6  Markets and Their Invisible Foundations",
     "section": "",
-    "text": "7 Learning Objectives",
+    "text": "6.1 Learning Objectives",
+    "crumbs": [
+      "Lectures",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Markets and Their Invisible Foundations</span>"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture-6.html#learning-objectives",
+    "href": "lectures/lecture-6.html#learning-objectives",
+    "title": "6  Markets and Their Invisible Foundations",
+    "section": "",
+    "text": "TipBy the end of today’s lecture you should be able to:\n\n\n\n\nExplain Polanyi’s distinction between real and fictitious commodities and what it implies for the limits of self-regulating markets\nDescribe the double movement and identify contemporary examples\nArticulate the ecofeminist critique that mainstream economics renders unpaid care work and ecosystem functions invisible\nApply an intersectional lens to a provisioning system (e.g., healthcare) and identify whose labor sustains it",
     "crumbs": [
       "Lectures",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Markets and Their Invisible Foundations</span>"
@@ -252,8 +263,8 @@
     "objectID": "lectures/lecture-6.html#slides",
     "href": "lectures/lecture-6.html#slides",
     "title": "6  Markets and Their Invisible Foundations",
-    "section": "7.1 Slides",
-    "text": "7.1 Slides\n\n  \n\n\n\n\n\nDengler, Corinna, and Christina Plank. 2024. “Foregrounding Invisible Foundations: (Eco-)feminist Perspectives on Provisioning Systems.” Sustainability: Science, Practice and Policy 20 (1): 2312667. https://doi.org/10.1080/15487733.2024.2312667.\n\n\nPolanyi, Karl. [1994] 2001. The Great Transformation. Beacon Press.",
+    "section": "6.2 Slides",
+    "text": "6.2 Slides\n\n  \n\n\n\n\n\nDengler, Corinna, and Christina Plank. 2024. “Foregrounding Invisible Foundations: (Eco-)feminist Perspectives on Provisioning Systems.” Sustainability: Science, Practice and Policy 20 (1): 2312667. https://doi.org/10.1080/15487733.2024.2312667.\n\n\nPolanyi, Karl. [1994] 2001. The Great Transformation. Beacon Press.",
     "crumbs": [
       "Lectures",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Markets and Their Invisible Foundations</span>"
@@ -293,24 +304,57 @@
     ]
   },
   {
-    "objectID": "lectures/seminar.html",
-    "href": "lectures/seminar.html",
-    "title": "8  Peer-Feedback Seminar",
+    "objectID": "lectures/lecture-8.html",
+    "href": "lectures/lecture-8.html",
+    "title": "8  Bioeconomy",
     "section": "",
-    "text": "9 Task\nProvide feedback on the draft of your assigned peer. I will shortly upload more concrete instructions.\n\n\n10 Helpful resources on writing\nThis video by the University of Chicago Leadership Lab: The Craft of Writing Effectivelyis aimed at doctoral students or early career researchers, but it holds a lot of value for any scientific writing. I highly recommend watching it over and over again.\nOur library services have a lot of resources for student’s writing—use them!",
+    "text": "Readings",
     "crumbs": [
       "Lectures",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Peer-Feedback Seminar</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Bioeconomy</span>"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture-8.html#readings",
+    "href": "lectures/lecture-8.html#readings",
+    "title": "8  Bioeconomy",
+    "section": "",
+    "text": "Mandatory\n\nVivien et al. (2019)\nKröger (2012)\n\n\n\nRecommended\n\nKappa in (kreutzer2026TreesCabbagesInnovation?)",
+    "crumbs": [
+      "Lectures",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Bioeconomy</span>"
+    ]
+  },
+  {
+    "objectID": "lectures/lecture-8.html#slides",
+    "href": "lectures/lecture-8.html#slides",
+    "title": "8  Bioeconomy",
+    "section": "8.1 Slides",
+    "text": "8.1 Slides\n\n  \n\n\n\n\n\nKröger, Markus. 2012. “The Expansion of Industrial Tree Plantations and Dispossession in Brazil.” Development and Change 43 (4): 947–73. https://doi.org/10.1111/j.1467-7660.2012.01787.x.\n\n\nVivien, F. -D., M. Nieddu, N. Befort, R. Debref, and M. Giampietro. 2019. “The Hijacking of the Bioeconomy.” Ecological Economics 159 (May): 189–97. https://doi.org/10.1016/j.ecolecon.2019.01.027.",
+    "crumbs": [
+      "Lectures",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Bioeconomy</span>"
+    ]
+  },
+  {
+    "objectID": "lectures/seminar.html",
+    "href": "lectures/seminar.html",
+    "title": "9  Peer-Feedback Seminar",
+    "section": "",
+    "text": "10 Task\nProvide feedback on the draft of your assigned peer. I will shortly upload more concrete instructions.\n\n\n11 Helpful resources on writing\nThis video by the University of Chicago Leadership Lab: The Craft of Writing Effectivelyis aimed at doctoral students or early career researchers, but it holds a lot of value for any scientific writing. I highly recommend watching it over and over again.\nOur library services have a lot of resources for student’s writing—use them!",
+    "crumbs": [
+      "Lectures",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Peer-Feedback Seminar</span>"
     ]
   },
   {
     "objectID": "references.html",
     "href": "references.html",
-    "title": "9  References",
+    "title": "10  References",
     "section": "",
-    "text": "Barlow, Nathan, Livia Regen, Noémie Cadiou, et al., eds. 2022.\nDegrowth & Strategy: How to Bring about Social-Ecological\nTransformation. Mayfly Books.\n\n\nCommon, Michael, and Sigrid Stagl. 2005. Ecological\nEconomics: An Introduction. 1st ed.\nCambridge University Press. https://doi.org/10.1017/CBO9780511805547.\n\n\nCostanza, Robert. 2015. An Introduction to\nEcological Economics. Second edition. CRC Press,\nTaylor & Francis Group.\n\n\nDemaria, Federico, François Schneider, Filka Sekulova, and Joan\nMartinez-Alier. 2013. “What Is Degrowth?\nFrom an Activist Slogan to a Social\nMovement.” Environmental Values 22 (2): 191–215.\nhttps://www.jstor.org/stable/23460978.\n\n\nDengler, Corinna, and Christina Plank. 2024. “Foregrounding\nInvisible Foundations: (Eco-)feminist Perspectives on Provisioning\nSystems.” Sustainability: Science, Practice and Policy\n20 (1): 2312667. https://doi.org/10.1080/15487733.2024.2312667.\n\n\nFischer, Liliann, Joe Hasell, J.Christopher Proctor, David Uwakwe, Zach\nWard-Perkins, and Catriona Watson, eds. 2017. Rethinking\nEconomics: An Introduction to Pluralist\nEconomics. 1st ed. Routledge. https://doi.org/10.4324/9781315407265.\n\n\nHaberl, Helmut, Dominik Wiedenhofer, Doris Virág, et al. 2020. “A\nSystematic Review of the Evidence on Decoupling of GDP,\nResource Use and GHG Emissions, Part II:\nSynthesizing the Insights.” Environmental Research\nLetters 15 (6): 065003. https://doi.org/10.1088/1748-9326/ab842a.\n\n\nHornborg, Alf. 2006. “Footprints in the Cotton\nFields: The Industrial Revolution as\nTime-Space Appropriation and Environmental Load\nDisplacement.” Ecological Economics 59 (1):\n74–81. https://doi.org/10.1016/j.ecolecon.2005.10.009.\n\n\nKallis, Giorgos, Vasilis Kostakis, Steffen Lange, Barbara Muraca, Susan\nPaulson, and Matthias Schmelzer. 2018. “Research On\nDegrowth.” Annual Review of Environment and\nResources 43 (Volume 43, 2018): 291–316. https://doi.org/10.1146/annurev-environ-102017-025941.\n\n\nKuznets, Simon. 1934. “National Income, 1929-1932.” In\nNational Income, 1929-1932. NBER.\n\n\nO’Neill, Daniel W., Andrew L. Fanning, William F. Lamb, and Julia K.\nSteinberger. 2018. “A Good Life for All Within Planetary\nBoundaries.” Nature Sustainability 1 (2): 88–95. https://doi.org/10.1038/s41893-018-0021-4.\n\n\nPolanyi, Karl. [1994] 2001. The Great\nTransformation. Beacon Press.\n\n\nRaworth, Kate. 2018. Doughnut Economics: Seven\nWays to Think Like a 21st-Century\nEconomist. Paperback edition. Random House Business Books.\n\n\nRøpke, Inge. 2020. “Econ 101—In Need of a\nSustainability Transition.” Ecological Economics 169\n(March): 106515. https://doi.org/10.1016/j.ecolecon.2019.106515.\n\n\nSpash, Clive L., ed. 2018. Routledge Handbook of\nEcological Economics: Nature and\nSociety. First issued in paperback. Routledge\nInternational Handbooks. Routledge.\n\n\nSpash, Clive L. 2020. “A Tale of Three Paradigms:\nRealising the Revolutionary Potential of Ecological\nEconomics.” Ecological Economics 169 (March): 106518. https://doi.org/10.1016/j.ecolecon.2019.106518.\n\n\nvan den Bergh, Jeroen C. 2001.\n“Ecological Economics: Themes, Approaches, and Differences with\nEnvironmental Economics.” Regional Environmental Change\n2 (1): 13–23. https://doi.org/10.1007/s101130000020.\n\n\nWiedmann, Thomas O., Heinz Schandl, Manfred Lenzen, et al. 2015.\n“The Material Footprint of Nations.” Proceedings of the\nNational Academy of Sciences 112 (20): 6271–76. https://doi.org/10.1073/pnas.1220362110.",
+    "text": "Barlow, Nathan, Livia Regen, Noémie Cadiou, et al., eds. 2022.\nDegrowth & Strategy: How to Bring about Social-Ecological\nTransformation. Mayfly Books.\n\n\nCommon, Michael, and Sigrid Stagl. 2005. Ecological\nEconomics: An Introduction. 1st ed.\nCambridge University Press. https://doi.org/10.1017/CBO9780511805547.\n\n\nCostanza, Robert. 2015. An Introduction to\nEcological Economics. Second edition. CRC Press,\nTaylor & Francis Group.\n\n\nDemaria, Federico, François Schneider, Filka Sekulova, and Joan\nMartinez-Alier. 2013. “What Is Degrowth?\nFrom an Activist Slogan to a Social\nMovement.” Environmental Values 22 (2): 191–215.\nhttps://www.jstor.org/stable/23460978.\n\n\nDengler, Corinna, and Christina Plank. 2024. “Foregrounding\nInvisible Foundations: (Eco-)feminist Perspectives on Provisioning\nSystems.” Sustainability: Science, Practice and Policy\n20 (1): 2312667. https://doi.org/10.1080/15487733.2024.2312667.\n\n\nFischer, Liliann, Joe Hasell, J.Christopher Proctor, David Uwakwe, Zach\nWard-Perkins, and Catriona Watson, eds. 2017. Rethinking\nEconomics: An Introduction to Pluralist\nEconomics. 1st ed. Routledge. https://doi.org/10.4324/9781315407265.\n\n\nHaberl, Helmut, Dominik Wiedenhofer, Doris Virág, et al. 2020. “A\nSystematic Review of the Evidence on Decoupling of GDP,\nResource Use and GHG Emissions, Part II:\nSynthesizing the Insights.” Environmental Research\nLetters 15 (6): 065003. https://doi.org/10.1088/1748-9326/ab842a.\n\n\nHornborg, Alf. 2006. “Footprints in the Cotton\nFields: The Industrial Revolution as\nTime-Space Appropriation and Environmental Load\nDisplacement.” Ecological Economics 59 (1):\n74–81. https://doi.org/10.1016/j.ecolecon.2005.10.009.\n\n\nKallis, Giorgos, Vasilis Kostakis, Steffen Lange, Barbara Muraca, Susan\nPaulson, and Matthias Schmelzer. 2018. “Research On\nDegrowth.” Annual Review of Environment and\nResources 43 (Volume 43, 2018): 291–316. https://doi.org/10.1146/annurev-environ-102017-025941.\n\n\nKröger, Markus. 2012. “The Expansion of\nIndustrial Tree Plantations and Dispossession\nin Brazil.” Development and Change 43 (4):\n947–73. https://doi.org/10.1111/j.1467-7660.2012.01787.x.\n\n\nKuznets, Simon. 1934. “National Income, 1929-1932.” In\nNational Income, 1929-1932. NBER.\n\n\nO’Neill, Daniel W., Andrew L. Fanning, William F. Lamb, and Julia K.\nSteinberger. 2018. “A Good Life for All Within Planetary\nBoundaries.” Nature Sustainability 1 (2): 88–95. https://doi.org/10.1038/s41893-018-0021-4.\n\n\nPolanyi, Karl. [1994] 2001. The Great\nTransformation. Beacon Press.\n\n\nRaworth, Kate. 2018. Doughnut Economics: Seven\nWays to Think Like a 21st-Century\nEconomist. Paperback edition. Random House Business Books.\n\n\nRøpke, Inge. 2020. “Econ 101—In Need of a\nSustainability Transition.” Ecological Economics 169\n(March): 106515. https://doi.org/10.1016/j.ecolecon.2019.106515.\n\n\nSpash, Clive L., ed. 2018. Routledge Handbook of\nEcological Economics: Nature and\nSociety. First issued in paperback. Routledge\nInternational Handbooks. Routledge.\n\n\nSpash, Clive L. 2020. “A Tale of Three Paradigms:\nRealising the Revolutionary Potential of Ecological\nEconomics.” Ecological Economics 169 (March): 106518. https://doi.org/10.1016/j.ecolecon.2019.106518.\n\n\nvan den Bergh, Jeroen C. 2001.\n“Ecological Economics: Themes, Approaches, and Differences with\nEnvironmental Economics.” Regional Environmental Change\n2 (1): 13–23. https://doi.org/10.1007/s101130000020.\n\n\nVivien, F. -D., M. Nieddu, N. Befort, R. Debref, and M. Giampietro.\n2019. “The Hijacking of the\nBioeconomy.” Ecological Economics 159\n(May): 189–97. https://doi.org/10.1016/j.ecolecon.2019.01.027.\n\n\nWiedmann, Thomas O., Heinz Schandl, Manfred Lenzen, et al. 2015.\n“The Material Footprint of Nations.” Proceedings of the\nNational Academy of Sciences 112 (20): 6271–76. https://doi.org/10.1073/pnas.1220362110.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>References</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>References</span>"
     ]
   }
 ]
