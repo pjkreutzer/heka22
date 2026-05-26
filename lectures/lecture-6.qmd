@@ -2,7 +2,7 @@
 title: "Markets and Their Invisible Foundations"
 ---
 
-# Learning Objectives
+## Learning Objectives
 
 ::: {.callout-tip}
 ## By the end of today's lecture you should be able to:

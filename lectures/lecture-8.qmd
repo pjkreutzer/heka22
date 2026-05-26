@@ -13,3 +13,6 @@ title: "Bioeconomy"
 
 - Kappa in @kreutzer2026TreesCabbagesInnovation
 
+## Slides
+
+{{< slides lecture-8 >}}

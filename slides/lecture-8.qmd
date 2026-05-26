@@ -1,7 +1,168 @@
 ---
 title: An Introduction to the Bioeconomy 
-subtitle: HEKA22
+subtitle: HEKA22---Lecture 8
 author: Jonas Kreutzer
-date: 2026-04-29
+date: last-modified
+format:
+    pjk_theme-revealjs:
+      include-in-header:
+        text: |
+          <style>
+          .text-batlow-darkblue { color: #011959; }
+          .text-batlow-forestgreen { color: #7C8738; }
+          .text-batlow-darkgreen { color: #205f61; }
+          .reveal .cropped {
+            width: 100% !important;
+            height: 280px !important;
+            max-width: none !important;
+            max-height: none !important;
+            object-fit: cover;
+            object-position: center;
+            margin: 0 !important;
+            border: none !important;
+            box-shadow: none !important;
+            }
+          </style>
 ---
+
+# Learning Objectives
+
+::: {.callout-tip}
+## By the end of today's lecture you should be able to:
+1. Be able to contrast the concepts bioeconomy and bioeconomics
+2. Know the most important sources of biomass and their limitations
+3. Describe the role of innovation in the bioeconomy transition
+4. Critically evaluate sustainability claims made about the bioeconomy
+:::
+
+
+# What is the bioeconomy?
+
+:::{.notes}
+![](../assets/bioeconomy-energy-curve.png)
+:::
+
+## Co-opting @georgescu-roegen1975EnergyEconomicMyths's bioeconomics
+
+## Bioeconomy visions
+
+::: {.columns}
+::: {.column width="33%"}
+
+### [Bioresource]{.text-batlow-darkgreen}
+
+![](../assets/bioresource.svg)
+:::
+::: {.column width="33%"}
+
+### [Biotechnology]{.text-batlow-forestgreen}
+
+![](../assets/biotechnology.svg)
+
+
+:::
+::: {.column width="33%"}
+
+### [Bioecology]{.text-batlow-darkblue}
+
+![](../assets/bioecology.svg)
+
+:::
+:::
+
+Classification based on @bugge2016WhatBioeconomyReview and @vivien2019HijackingBioeconomy
+
+# Innovation and Change {.inverted}
+
+## Definition of innovation
+
+> “[An innovation is a ]{.text-default}[new or improved product or process (or combination thereof)]{.text-primary} [that differs significantly from the unit’s previous products or processes and that has been ]{.text-default}[made available to potential users (product) or brought into use by the unit (process).]{.text-primary}”
+
+@oecd2018OsloManual2018 [p. 20]
+
+## Kondratieff Cycles
+
+![Kondratieff Cycles copied from @pyka2020BioeconomyPointView](../assets/kondratieff.png){#fig-kondratieff}
+
+:::{.notes}
+
+![](https://pjkreutzer.github.io/teaching-innovation-sustainability/assets/iceberg.jpg)
+
+:::
+
+## Swedish forest-based bioeconomy innovations
+
+![Counts of innovation classification by Bioeconomy Vision Category [@kreutzer2026ConsolidatingRatherGuiding]](../assets/fig_bioeconomy_vision_counts.svg){#fig-bioeconomy-trends}
+
+# The political economy of bioeconomies {.inverted}
+
+## Sources of biomass
+
+::: {.columns}
+::: {.column width="25%"}
+**Agriculture**
+
+![](../assets/agriculture.jpg){.cropped}
+:::
+::: {.column width="25%"}
+**Forestry**
+
+![](../assets/eucalyptus-plantations.jpg){.cropped}
+:::
+::: {.column width="25%"}
+**Aquaculture**
+
+![](../assets/aquaculture.jpg){.cropped}
+:::
+::: {.column width="25%"}
+**Waste**
+
+![](../assets/biological-waste.jpg){.cropped}
+:::
+:::
+
+
+## Global North-South Dynamics
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+![Paso de los Toros, Uruguay's largest pulp mill](../assets/upm-uruguay.jpg){#fig-paso-toros width="650px"}
+
+
+:::
+
+::: {.column width="50%"}
+
+![Protest against Uruguay River destruction](../assets/uruguay-protest.jpg){#fig-uruguay-protest}
+
+:::
+
+:::
+
+## Alternative low-intensity uses
+
+![Non Timber Forest Product use in Indonesia](../assets/indigenous-ntfp.jpg){#fig-nftp}
+
+
+## Checking in on Learning Objectives
+
+
+::: {.callout-tip}
+
+## By the end of this course you should:
+
+Demonstrate the ability to independently apply anthropological, historical, sociological, and [economic perspectives]{.text-royal-blue-400} to environmental issues,
+
+- demonstrate the ability to convey in-depth knowledge of human ecology in both spoken and written communication,
+
+- demonstrate the ability to conduct subject-related information searches, evaluate information, and master reference management.
+
+- demonstrate the ability to engage in informed discussion of the relationship between environmental problems and economic growth,
+
+:::
+
+
+## References
 
