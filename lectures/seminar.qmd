@@ -2,11 +2,45 @@
 title: Peer-Feedback Seminar
 ---
 
-# Task
+## Task
 
-Provide feedback on the draft of your assigned peer. I will shortly upload more concrete instructions.
+Provide feedback on the draft of your assigned peer. 
 
-# Helpful resources on writing
+### Seminar Instructions
+
+Structure your feedback as a reader who does not get paid to read the text: "as a reader, I got lost here / didn't believe this / wanted to know Y / really enjoyed X".
+
+#### Argument
+
+- State the authors central claim back to them, see if it matches what they thought their central argument was 
+
+#### Course engagement
+
+
+- Which concepts from the course are central to the essay? How precisely are they used?
+
+- Is anything from the course missing that would strengthen the argument?
+
+#### Theories and evidence
+
+
+- Are these concepts load-bearing, in other words, would the argument fall apart without them?
+
+- How is evidence used in the essay? Where is it the thinnest relative to the weight it carries in the argument? Is it well sourced and motivated?
+  
+#### Reader Experience
+
+- Mark the place you got lost, bored, or skeptical.
+- Mark the place you were most convinced or interested.
+
+#### Anthology readiness
+
+- Would a reader outside this course follow the argument?
+- Is there a sentence or paragraph you'd want to quote? (Useful positive signal.)
+
+During the seminar you will get five minutes to deliver your feedback. Note that this is not a defense, just an opportunity to improve your essay. If we have time left we will get started with making plans for improvements.
+
+## Helpful resources on writing
 
 This video by the [University of Chicago Leadership Lab: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)is aimed at doctoral students or early career researchers, but it holds a lot of value for any scientific writing. I highly recommend watching it over and over again.
 
